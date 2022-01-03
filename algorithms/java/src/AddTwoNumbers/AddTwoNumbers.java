@@ -42,7 +42,7 @@ public class AddTwoNumbers {
 			l1 = l1 == null ? null : l1.next;
 			l2 = l2 == null ? null : l2.next;
 		}
-		// 999999 + 999
+		// Be attention, (example:999999 + 999)
 		if (t > 0) {
 			p.next = new ListNode(t);
 		}
