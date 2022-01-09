@@ -11,12 +11,13 @@ package AddTwoNumbers;
  * You are given two non-empty linked lists representing two no-negative integers.
  * The digits are stored in reverse order, and each of their nodes contains a single digit.
  * Add the two numbers and return the sum as a linked list.
- *
+ * <p>
  * for example:
  * Input l1 = [2, 4, 3], l2 = [5, 6, 4]
  * Output: [7, 0, 8]
  * Explanation: 342 + 465 = 807
  * ******************************************************************
+ *
  * @author tsingyun
  * @version V1.0
  * @date 2022/1/3 15:53
@@ -33,7 +34,7 @@ public class AddTwoNumbers {
 
 			if (sum >= 10) {
 				t = 1;
-				sum = sum%10;
+				sum = sum % 10;
 			} else {
 				t = 0;
 			}
@@ -46,7 +47,7 @@ public class AddTwoNumbers {
 		if (t > 0) {
 			p.next = new ListNode(t);
 		}
-		return head;
+		return head.next;
 	}
 }
 
