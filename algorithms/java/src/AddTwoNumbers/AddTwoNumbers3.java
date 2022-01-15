@@ -1,6 +1,6 @@
 package AddTwoNumbers;
 
-public class AddTwoNumber3 {
+public class AddTwoNumbers3 {
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 		ListNode head = new ListNode(0);
 		ListNode p = head;
@@ -35,7 +35,7 @@ public class AddTwoNumber3 {
 		l2.next = new ListNode(6);
 		l2.next.next = new ListNode(4);
 
-		ListNode res = new AddTwoNumber3().addTwoNumbers(l1, l2);
+		ListNode res = new AddTwoNumbers3().addTwoNumbers(l1, l2);
 
 		while (res != null) {
 			System.out.print(res.val);
