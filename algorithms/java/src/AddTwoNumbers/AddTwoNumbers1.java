@@ -22,7 +22,7 @@ package AddTwoNumbers;
  * @version V1.0
  * @date 2022/1/3 15:53
  */
-public class AddTwoNumbers {
+public class AddTwoNumbers1 {
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 		ListNode head = new ListNode(0);
 		ListNode p = head;
