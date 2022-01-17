@@ -24,6 +24,9 @@
 hs_err_pid*
 
 .idea/*
+*/.idea/*
+*/*/.idea/*
+*/*/*/.idea/*
 .classpath
 .project
 target/
