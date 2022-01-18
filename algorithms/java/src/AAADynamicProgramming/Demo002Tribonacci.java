@@ -8,9 +8,9 @@ package AAADynamicProgramming;
  * @version V1.0
  * @date 2022/1/18 1:41
  */
-public class Demo2Tribonacci {
+public class Demo002Tribonacci {
 	public static void main(String[] args) {
-		System.out.println(new Demo2Tribonacci().tribonacci(25));
+		System.out.println(new Demo002Tribonacci().tribonacci(25));
 	}
 
 	public int tribonacci(int n) {

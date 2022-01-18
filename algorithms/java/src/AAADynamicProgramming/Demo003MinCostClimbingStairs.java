@@ -8,7 +8,7 @@ package AAADynamicProgramming;
  * @version V1.0
  * @date 2022/1/18 22:12
  */
-public class MinCostClimbingStairs {
+public class Demo003MinCostClimbingStairs {
 
 	public int minCostClimbingStairs(int[] cost) {
 		int n = cost.length;

@@ -8,9 +8,9 @@ package AAADynamicProgramming;
  * @version V1.0
  * @date 2022/1/18 1:39
  */
-public class Demo01Fib {
+public class Demo001Fib {
 	public static void main(String[] args) {
-		System.out.println(new Demo01Fib().fib(4));
+		System.out.println(new Demo001Fib().fib(4));
 	}
 
 	public int fib(int n) {
