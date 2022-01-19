@@ -5,8 +5,6 @@
  */
 package ReverseWordsInAString;
 
-import com.sun.xml.internal.ws.util.StringUtils;
-
 /**
  * source: https://leetcode-cn.com/problems/reverse-words-in-a-string/
  * ******************************************************************
@@ -20,14 +18,14 @@ import com.sun.xml.internal.ws.util.StringUtils;
 public class ReverseWordsInAString {
 
 	public static void main(String[] args) {
-		String res = new ReverseWordsInAString().reverseWords("the sky   is  blue ");
+		String res = new ReverseWordsInAString().reverseWords("   the sky   is  blue ");
 		System.out.println(res);
 	}
 
 	public String reverseWords(String s) {
 		// [t, h, e,  , s, k, y,  ,  ,  , i, s,  ,  , b, l, u, e,  ]
 		char[] chars = s.toCharArray();
-		int len = 0;
+		int len;
 		int cur = 0;
 		boolean space = true;
 		for (int i = 0; i < chars.length; i++) {
