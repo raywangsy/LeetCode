@@ -2,7 +2,8 @@ package 剑指Offer05替换空格;
 
 public class Solution {
 	public static void main(String[] args) {
-
+		String res = new Solution().replaceSpace("hello world !");
+		System.out.println(res);
 	}
 
 	public String replaceSpace(String s) {
