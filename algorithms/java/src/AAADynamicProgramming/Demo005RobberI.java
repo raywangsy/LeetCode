@@ -46,7 +46,7 @@ public class Demo005RobberI {
 	}
 
 	public static void main(String[] args) {
-		int[] nums = new int[]{2,7,9,3,1};
+		int[] nums = new int[]{2, 7, 9, 3, 1};
 		System.out.println(new Demo005RobberI().rob(nums));
 	}
 }
