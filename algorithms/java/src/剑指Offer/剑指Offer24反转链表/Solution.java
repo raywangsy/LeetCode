@@ -1,4 +1,4 @@
-package 剑指Offer24反转链表;
+package 剑指Offer.剑指Offer24反转链表;
 
 /**
  * source: https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/submissions/

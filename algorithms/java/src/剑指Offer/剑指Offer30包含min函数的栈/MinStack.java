@@ -1,4 +1,4 @@
-package 剑指Offer30包含min函数的栈;
+package 剑指Offer.剑指Offer30包含min函数的栈;
 
 import java.util.Stack;
 

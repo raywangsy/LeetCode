@@ -1,4 +1,4 @@
-package 剑指Offer06从尾到头打印链表;
+package 剑指Offer.剑指Offer06从尾到头打印链表;
 
 import AddTwoNumbers.ListNode;
 

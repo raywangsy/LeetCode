@@ -1,4 +1,4 @@
-package 剑指Offer58_I翻转单词顺序;
+package 剑指Offer.剑指Offer58_I翻转单词顺序;
 
 public class Solution {
 	public static void main(String[] args) {

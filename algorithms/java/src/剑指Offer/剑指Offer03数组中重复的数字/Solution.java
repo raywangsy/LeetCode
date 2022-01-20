@@ -1,4 +1,4 @@
-package 剑指Offer03数组中重复的数字;
+package 剑指Offer.剑指Offer03数组中重复的数字;
 
 import java.util.HashSet;
 import java.util.Set;

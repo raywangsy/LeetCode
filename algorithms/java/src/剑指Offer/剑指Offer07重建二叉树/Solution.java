@@ -1,4 +1,4 @@
-package 剑指Offer07重建二叉树;
+package 剑指Offer.剑指Offer07重建二叉树;
 
 
 public class Solution {

@@ -1,4 +1,4 @@
-package 剑指Offer05替换空格;
+package 剑指Offer.剑指Offer05替换空格;
 
 public class Solution {
 	public static void main(String[] args) {

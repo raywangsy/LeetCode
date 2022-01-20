@@ -1,4 +1,4 @@
-package 剑指Offer09用两个栈实现队列;
+package 剑指Offer.剑指Offer09用两个栈实现队列;
 
 import java.util.Stack;
 

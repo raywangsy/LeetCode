@@ -1,4 +1,4 @@
-package 剑指Offer25合并两个排序的链表;
+package 剑指Offer.剑指Offer25合并两个排序的链表;
 
 import AddTwoNumbers.ListNode;
 

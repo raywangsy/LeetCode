@@ -1,4 +1,4 @@
-package 剑指Offer58_II左旋转字符串;
+package 剑指Offer.剑指Offer58_II左旋转字符串;
 
 public class Solution {
 	public static void main(String[] args) {

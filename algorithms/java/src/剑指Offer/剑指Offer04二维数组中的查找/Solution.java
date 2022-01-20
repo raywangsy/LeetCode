@@ -1,4 +1,4 @@
-package 剑指Offer04二维数组中的查找;
+package 剑指Offer.剑指Offer04二维数组中的查找;
 
 public class Solution {
 	public static void main(String[] args) {
