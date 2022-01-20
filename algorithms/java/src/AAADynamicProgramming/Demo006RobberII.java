@@ -6,32 +6,25 @@ public class Demo006RobberII {
 		if (nums.length < 1) return 0;
 		if (nums.length == 1) return nums[0];
 		if (nums.length == 2) return Math.max(nums[0], nums[1]);
-		int[] dp1 = new int[nums.length];
-		int[] dp2 = new int[nums.length];
 
-		return Math.max(getMax(nums, dp1, 0), getMax(nums, dp2, 1));
+		return Math.max(getMax(nums, nums[0], nums[0], 0), getMax(nums, 0, nums[1], 1));
 	}
 
-	private int getMax(int[] nums, int[] dp, int zero) {
-		if (zero == 0) {
-			dp[0] = nums[0];
-			dp[1] = dp[0];
-		} else {
-			dp[0] = 0;
-			dp[1] = nums[1];
-		}
+	private int getMax(int[] nums, int first, int second, int zero) {
 		for (int i = 2; i < nums.length; i++) {
+			int val = nums[i];
 			if (zero == 0 && i == nums.length - 1) {
-				dp[i] = dp[i - 1];
-			} else {
-				dp[i] = Math.max(dp[i - 2] + nums[i], dp[i - 1]);
+				val = 0;
 			}
+			int temp = second;
+			second = Math.max(first + val, second);
+			first = temp;
 		}
-		return dp[nums.length - 1];
+		return second;
 	}
 
 	public static void main(String[] args) {
-		int[] nums = new int[]{1,3,1};
-		System.out.println(new Demo006RobberII().rob(nums));;
+		int[] nums = new int[]{2, 3, 2};
+		System.out.println(new Demo006RobberII().rob(nums));
 	}
 }
