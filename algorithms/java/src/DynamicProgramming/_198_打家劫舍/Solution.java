@@ -1,4 +1,4 @@
-package AAADynamicProgramming;
+package DynamicProgramming._198_打家劫舍;
 
 
 /**
@@ -12,7 +12,7 @@ package AAADynamicProgramming;
  * @date 2022/1/19 22:08
  */
 @SuppressWarnings("DuplicatedCode")
-public class Demo005RobberI {
+public class Solution {
 
 	/**
 	 * 假设有数组 [1, 2, 3, 1, ...., n]
@@ -47,6 +47,6 @@ public class Demo005RobberI {
 
 	public static void main(String[] args) {
 		int[] nums = new int[]{2, 7, 9, 3, 1};
-		System.out.println(new Demo005RobberI().rob(nums));
+		System.out.println(new Solution().rob(nums));
 	}
 }

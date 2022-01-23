@@ -1,7 +1,7 @@
-package AAADynamicProgramming;
+package DynamicProgramming._213_打家劫舍II;
 
 @SuppressWarnings("DuplicatedCode")
-public class Demo006RobberII {
+public class Solution {
 	public int rob(int[] nums) {
 		if (nums.length < 1) return 0;
 		if (nums.length == 1) return nums[0];
@@ -25,6 +25,6 @@ public class Demo006RobberII {
 
 	public static void main(String[] args) {
 		int[] nums = new int[]{2, 3, 2};
-		System.out.println(new Demo006RobberII().rob(nums));
+		System.out.println(new Solution().rob(nums));
 	}
 }

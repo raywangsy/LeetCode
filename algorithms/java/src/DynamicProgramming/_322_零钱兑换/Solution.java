@@ -1,4 +1,4 @@
-package AAADynamicProgramming;
+package DynamicProgramming._322_零钱兑换;
 
 /**
  * Source: https://leetcode-cn.com/problems/coin-change/
@@ -7,10 +7,10 @@ package AAADynamicProgramming;
  * @version V1.0
  * @date 2022/1/22 14:12
  */
-public class Demo007CoinChange {
+public class Solution {
 	public static void main(String[] args) {
 		int[] coins = new int[]{2};
-		System.out.println(new Demo007CoinChange().coinChange(coins, 3));
+		System.out.println(new Solution().coinChange(coins, 3));
 	}
 	// dp(n) 是凑到 n 分钱需要最少的硬币个数
 	// 第一个选择 25 分，dp(n) = dp(n - 25) + 1

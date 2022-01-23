@@ -1,4 +1,4 @@
-package AAADynamicProgramming;
+package DynamicProgramming;
 
 public class Demo004MaxSubArray {
 

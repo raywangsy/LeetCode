@@ -1,4 +1,4 @@
-package AAADynamicProgramming;
+package DynamicProgramming._746_使用最小花费爬楼梯;
 
 /**
  * 746. 使用最小花费爬楼梯
@@ -8,7 +8,7 @@ package AAADynamicProgramming;
  * @version V1.0
  * @date 2022/1/18 22:12
  */
-public class Demo003MinCostClimbingStairs {
+public class Solution {
 
 	public int minCostClimbingStairs(int[] cost) {
 		int n = cost.length;

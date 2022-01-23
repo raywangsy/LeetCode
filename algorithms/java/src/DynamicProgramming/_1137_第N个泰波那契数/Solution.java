@@ -1,4 +1,4 @@
-package AAADynamicProgramming;
+package DynamicProgramming._1137_第N个泰波那契数;
 
 /**
  * Dynamic Programming
@@ -8,9 +8,9 @@ package AAADynamicProgramming;
  * @version V1.0
  * @date 2022/1/18 1:41
  */
-public class Demo002Tribonacci {
+public class Solution {
 	public static void main(String[] args) {
-		System.out.println(new Demo002Tribonacci().tribonacci(25));
+		System.out.println(new Solution().tribonacci(25));
 	}
 
 	public int tribonacci(int n) {
