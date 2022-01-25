@@ -11,7 +11,7 @@ public class Solution {
 		root.right = new TreeNode(20);
 		root.right.left = new TreeNode(15);
 		root.right.right = new TreeNode(7);
-		System.out.println(new Solution().levelOrder(root));
+		System.out.println(Arrays.toString(new Solution().levelOrder(root)));
 	}
 	public int[] levelOrder(TreeNode root) {
 		if (root == null) return new int[]{};
