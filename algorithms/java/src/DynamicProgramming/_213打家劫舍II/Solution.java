@@ -1,4 +1,4 @@
-package DynamicProgramming._213_打家劫舍II;
+package DynamicProgramming._213打家劫舍II;
 
 @SuppressWarnings("DuplicatedCode")
 public class Solution {

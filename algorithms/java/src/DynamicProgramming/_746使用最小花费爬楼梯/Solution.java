@@ -1,4 +1,4 @@
-package DynamicProgramming._746_使用最小花费爬楼梯;
+package DynamicProgramming._746使用最小花费爬楼梯;
 
 /**
  * 746. 使用最小花费爬楼梯

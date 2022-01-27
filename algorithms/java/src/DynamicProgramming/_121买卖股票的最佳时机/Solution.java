@@ -1,4 +1,4 @@
-package DynamicProgramming._121_买卖股票的最佳时机;
+package DynamicProgramming._121买卖股票的最佳时机;
 
 public class Solution {
 	public static void main(String[] args) {

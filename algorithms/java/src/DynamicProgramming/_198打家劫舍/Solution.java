@@ -1,4 +1,4 @@
-package DynamicProgramming._198_打家劫舍;
+package DynamicProgramming._198打家劫舍;
 
 
 /**

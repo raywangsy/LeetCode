@@ -1,4 +1,4 @@
-package DynamicProgramming._300_最长递增子序列;
+package DynamicProgramming._300最长递增子序列;
 
 public class Solution {
 	public static void main(String[] args) {
