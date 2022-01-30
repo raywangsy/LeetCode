@@ -1,4 +1,4 @@
-package DynamicProgramming._673最长递增子序列的个数;
+package 动态规划._673最长递增子序列的个数;
 
 public class Solution {
 	public static void main(String[] args) {

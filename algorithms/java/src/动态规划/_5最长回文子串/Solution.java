@@ -1,4 +1,4 @@
-package DynamicProgramming._5最长回文子串;
+package 动态规划._5最长回文子串;
 
 public class Solution {
 	public static void main(String[] args) {

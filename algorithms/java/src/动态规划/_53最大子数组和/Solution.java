@@ -1,4 +1,4 @@
-package DynamicProgramming._53最大子数组和;
+package 动态规划._53最大子数组和;
 
 public class Solution {
 

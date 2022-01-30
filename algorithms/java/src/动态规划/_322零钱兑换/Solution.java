@@ -1,4 +1,4 @@
-package DynamicProgramming._322零钱兑换;
+package 动态规划._322零钱兑换;
 
 /**
  * Source: https://leetcode-cn.com/problems/coin-change/

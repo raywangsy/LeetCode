@@ -1,4 +1,4 @@
-package DynamicProgramming._198打家劫舍;
+package 动态规划._198打家劫舍;
 
 
 /**
