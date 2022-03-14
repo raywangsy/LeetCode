@@ -1,4 +1,4 @@
-package 动态规划._53最大子数组和;
+package 动态规划刷题指南._53最大子数组和;
 
 public class Solution {
 

@@ -1,4 +1,4 @@
-package 动态规划._70爬楼梯;
+package 动态规划刷题指南._70爬楼梯;
 
 public class Solution {
 	public int climbStairs(int n) {

@@ -1,4 +1,4 @@
-package 动态规划._300最长递增子序列;
+package 动态规划刷题指南._300最长递增子序列;
 
 public class Solution {
 	public static void main(String[] args) {
