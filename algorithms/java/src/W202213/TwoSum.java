@@ -10,8 +10,8 @@ import java.util.Map;
  * @version V1.0
  * @date 2022/3/23 23:19
  */
+@SuppressWarnings("DuplicatedCode")
 public class TwoSum {
-	@SuppressWarnings("DuplicatedCode")
 	public int[] twoSum(int[] nums, int target) {
 		if (nums == null || nums.length == 0) {
 			return new int[0];
