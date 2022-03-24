@@ -9,17 +9,12 @@ import java.util.Stack;
  * @version V1.0
  * @date 2022/1/17 22:57
  */
-public class ImplementStackWithTwoStacks {
-	public static void main(String[] args) {
-	}
-}
-
-class CQueue {
+public class CQueue1 {
 
 	private Stack<Integer> stack1;
 	private Stack<Integer> stack2;
 
-	public CQueue() {
+	public CQueue1() {
 		stack1 = new Stack<>();
 		stack2 = new Stack<>();
 	}
