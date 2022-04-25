@@ -8,7 +8,7 @@ package 动态规划刷题指南._746使用最小花费爬楼梯;
  * @version V1.0
  * @date 2022/1/18 22:12
  */
-public class Solution {
+public class Solution01 {
 
 	public int minCostClimbingStairs(int[] cost) {
 		int n = cost.length;
