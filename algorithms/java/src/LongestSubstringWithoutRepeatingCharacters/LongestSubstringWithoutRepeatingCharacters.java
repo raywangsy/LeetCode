@@ -1,5 +1,11 @@
 package LongestSubstringWithoutRepeatingCharacters;
 
+/**
+ *
+ * @author Wang
+ * @version V1.0
+ * @date 2022/6/13 22:53
+ */
 public class LongestSubstringWithoutRepeatingCharacters {
 
 	public int test(String s) {
