@@ -10,6 +10,7 @@ from lxml.etree import CDATA
 
 MD_HEAD = """## Leetcode
 刷题笔记
+本项目使用 @yihong0618 的开源博客 https://github.com/yihong0618/gitblog
 """
 
 BACKUP_DIR = "BACKUP"
@@ -159,9 +160,9 @@ def add_md_firends(repo, md, me):
                 except Exception as e:
                     print(str(e))
                     pass
-    # with open(md, "a+", encoding="utf-8") as md:
-        #md.write("## 友情链接\n")
-        #md.write(s)
+    with open(md, "a+", encoding="utf-8") as md:
+        md.write("## 友情链接\n")
+        md.write(s)
 
 
 def add_md_recent(repo, md, me, limit=5):
