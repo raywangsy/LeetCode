@@ -203,7 +203,7 @@ def add_md_label(repo, md, me):
 
             issues = get_issues_from_label(repo, label)
             if issues.totalCount:
-                md.write("## " + label.name + "_" + issues.totalCount + "\n")
+                md.write("## " + label.name + "_" + str(issues.totalCount) + "\n")
                 issues = sorted(issues, key=lambda x: x.created_at, reverse=True)
             i = 0
             for issue in issues:
