@@ -24,6 +24,8 @@
 - [151. 🈚️ 反转字符串中的单词](https://github.com/imtsingyun/LeetCode/issues/2) 2022-11-03
 ## 滑动窗口
 - [239. 🈲 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
+## 后续遍历
+- [572. 🈯️ 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 ## 🈯️ Easy
 - [572. 🈯️ 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 - [88. 🈯️ 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
