@@ -20,6 +20,8 @@
 - [572. 🈯️ 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 ## 动态规划
 - [322. 🈚️ 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1) 2022-01-22
+## 双指针
+- [88. 🈯️ 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
 ## 反转/翻转
 - [151. 🈚️ 反转字符串中的单词](https://github.com/imtsingyun/LeetCode/issues/2) 2022-11-03
 ## 滑动窗口
