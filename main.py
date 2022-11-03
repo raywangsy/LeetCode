@@ -8,9 +8,8 @@ from github import Github
 from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
-MD_HEAD = """## Leetcode
-刷题笔记
-本项目使用 @yihong0618 的开源博客 https://github.com/yihong0618/gitblog
+MD_HEAD = """## Leetcode 笔记
+本项目使用 [@yihong0618](https://github.com/yihong0618) 的开源博客 https://github.com/yihong0618/gitblog
 """
 
 BACKUP_DIR = "BACKUP"
