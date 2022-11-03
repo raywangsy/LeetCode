@@ -160,9 +160,9 @@ def add_md_firends(repo, md, me):
                 except Exception as e:
                     print(str(e))
                     pass
-    with open(md, "a+", encoding="utf-8") as md:
-        md.write("## 友情链接\n")
-        md.write(s)
+    #with open(md, "a+", encoding="utf-8") as md:
+       # md.write("## 友情链接\n")
+       # md.write(s)
 
 
 def add_md_recent(repo, md, me, limit=5):
