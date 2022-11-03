@@ -33,6 +33,8 @@
 - [239. 🈲 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
 ## 单调队列（1）
 - [239. 🈲 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
+## 双端队列（1）
+- [239. 🈲 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
 ## 后续遍历（1）
 - [572. 🈯️ 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 ## 🈯️ Easy（4）
