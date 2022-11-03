@@ -1,0 +1,59 @@
+# [Dynimac Programming Exercises](https://github.com/imtsingyun/LeetCode/issues/1)
+
+Learn dynamic programming throuth exercises
+
+
+---
+
+# [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)
+2022-01-23 第03周 15:45:14
+
+## 题目描述：
+![image](https://user-images.githubusercontent.com/56377217/150669361-675e3979-1a04-4a76-b0d8-d1563554a07c.png)
+
+## 解题思路：
+假设 `coins = [1, 2, 5]`，另外 `dp(n)` 表示凑够 n 分需要的硬币个数，所以定义数组：`int[] dp = new int[amount + 1]`
+
+- `dp[0]` 表示凑够 0 分需要的硬币数，`dp[0] = 0`
+- `dp[1]` 表示凑够 1 分需要的硬币数，`dp[1] = 1`
+- `dp[2]` 表示凑够 2 分需要的硬币数
+  - 假设第一个选择的是 1 分硬币，则 `dp[2] = dp[2 - 1] + 1 = dp[1] + 1 = 2`，[2 - 1] 表示选择一个 1 分后还剩的金额，而 +1 表示已经选择了一枚 1 分硬币，所以此处表示选择了 2 枚 1 分硬币
+  - 假设第一个选择的是 2 分硬币，则 `dp[2] = dp[2 - 2] + 1 = dp[0] + 1 = 1`，分析同步，此处表示选择 1 枚 2 分硬币
+  - 由于要求硬币数量最少，所以 `dp[2] = min { dp[2 - 1] + 1, dp[2 - 2] + 1}`
+
+- `dp[3]` 表示凑够 3 分需要的硬币数
+  - 第一个选择 1 分，`dp[3] = dp[3 - 1] + 1`
+  - 第一个选择 2 分，`dp[3] = dp[3 - 2] + 1`
+  - 所以：`dp[3] = min { dp[3 - 1] + 1, dp[3 - 2] + 1 }`
+
+综上可得：`dp[n] = min { dp[n - 1], dp[n - 2], dp[n - 5] } + 1`
+
+## 代码：
+
+```java
+class Solution {
+    public int coinChange(int[] coins, int amount) {  
+        if (coins == null || coins.length < 1) return -1;
+        // dp[n] 表示凑够 n 分需要的硬币数，即数组下标表示需要凑够的金额，从 0 开始
+        int[] dp = new int[amount + 1];
+        // 从凑够 1 分开始计算
+        for (int i = 1; i <= amount; i++) {
+            int min = Integer.MAX_VALUE;
+            // 遍历面额数组，表示第一次分别取不同面额时需要的硬币数，然后从中选择最小的即可
+            for (int coin : coins) {
+                // 假设面额有 [5, 10, 20]，此时如果 i = 1，则无法凑够面额，所以 i < coin 时不用计算
+                // 接上，如果 i = 6，coin = 5 时，dp[6 - 5] = dp[1]，由上句可知 dp[1] 无法凑出，所以此时也不能使用 dp[1] 来计算
+                if (i < coin || dp[i - coin] < 0) continue;
+                min = Math.min(min, dp[i - coin]);
+            }
+            // 无法凑成
+            if (min == Integer.MAX_VALUE) {
+                dp[i] = -1;
+            } else {
+                dp[i] = min + 1;
+            }
+        }
+        return dp[amount];
+    }
+}
+```
