@@ -1,5 +1,4 @@
-## Leetcode
-刷题笔记
+## Leetcode 笔记
 本项目使用 [@yihong0618](https://github.com/yihong0618) 的开源博客 https://github.com/yihong0618/gitblog
 ## 最近更新
 - [3. 无重复字符的最长子串 🟨](https://github.com/imtsingyun/LeetCode/issues/3)--2022-11-03
