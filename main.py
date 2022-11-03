@@ -10,6 +10,8 @@ from lxml.etree import CDATA
 
 MD_HEAD = """## Leetcode 笔记
 本项目使用 [@yihong0618](https://github.com/yihong0618) 的开源项目 [yihong0618/gitblog](https://github.com/yihong0618/gitblog) 创建而成
+\n
+🈯️ Easy, 🈚️ Medium, 🈲 Hard
 """
 
 BACKUP_DIR = "BACKUP"
