@@ -120,8 +120,24 @@ def get_issues_from_label(repo, label):
 
 def add_issue_info(issue, md):
     time = format_time(issue.created_at)
-    print(issue.labels)
-    md.write(f"- [{issue.title}]({issue.html_url}) {time}\n")
+    # 难度 0easy, 1medium, 2hard
+    difficulty = -1
+    for label in issue.labels:
+        if "Easy" in label.name:
+            difficulty = 0
+        elif "Medium" in label.name:
+            difficulty = 1
+        elif "Hard" in label.name: 
+            difficulty = 2
+    
+    if difficulty == -1:
+        md.write(f"- [{issue.title}]({issue.html_url}) {time}\n")
+    elif difficulty == 0:
+        md.write(f"- 🈯[{issue.title}]({issue.html_url}) {time}\n")
+    elif difficulty == 1:
+        md.write(f"- 🈚️[{issue.title}]({issue.html_url}) {time}\n")
+    elif difficulty == 2:
+        md.write(f"- 🈲[{issue.title}]({issue.html_url}) {time}\n")
 
 
 def add_md_todo(repo, md, me):
