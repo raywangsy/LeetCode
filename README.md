@@ -2,7 +2,7 @@
 本项目使用 [@yihong0618](https://github.com/yihong0618) 的开源项目 [yihong0618/gitblog](https://github.com/yihong0618/gitblog) 创建而成
 
 
-[🈯️ Easy](https://github.com/imtsingyun/LeetCode#%EF%B8%8F-easy), [🈚️ Medium](https://github.com/imtsingyun/LeetCode#%EF%B8%8F-medium), [🈲 Hard](https://github.com/imtsingyun/LeetCode#-hard)
+[🈯️ Easy](https://github.com/imtsingyun/LeetCode#%EF%B8%8F-easy)   [🈚️ Medium](https://github.com/imtsingyun/LeetCode#%EF%B8%8F-medium)   [🈲 Hard](https://github.com/imtsingyun/LeetCode#-hard)
 ## 最近更新
 - [5. 🈚️ 最长回文子串](https://github.com/imtsingyun/LeetCode/issues/12) 2022-11-05
 - [739. 🈚️ 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
@@ -60,10 +60,10 @@
 ## 🈲 Hard（2）
 - [42. 🈲 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 - [239. 🈲 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
-## TODO
-TODO list from [5. 🈚️ 最长回文子串](https://github.com/imtsingyun/LeetCode/issues/12) all done
+## TODO 
+- [ ] [5. 🈚️ 最长回文子串](https://github.com/imtsingyun/LeetCode/issues/12) all done
 
-TODO list from [42. 🈲 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) all done
+- [ ] [42. 🈲 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) all done
 
-TODO list from [322. 🈚️ 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1) all done
+- [ ] [322. 🈚️ 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1) all done
 
