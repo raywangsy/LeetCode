@@ -4,11 +4,11 @@
 
 [🈯️ Easy](https://github.com/imtsingyun/LeetCode#%EF%B8%8F-easy), [🈚️ Medium](https://github.com/imtsingyun/LeetCode#%EF%B8%8F-medium), [🈲 Hard](https://github.com/imtsingyun/LeetCode#-hard)
 ## 最近更新
+- [5. 🈚️ 最长回文子串](https://github.com/imtsingyun/LeetCode/issues/12) 2022-11-05
 - [739. 🈚️ 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
 - [42. 🈲 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 - [面试题 01.09. 🈯️ 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
 - [242. 🈯️ 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
-- [572. 🈯️ 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 ## 字符串（5）
 - [面试题 01.09. 🈯️ 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
 - [242. 🈯️ 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
@@ -60,3 +60,10 @@
 ## 🈲 Hard（2）
 - [42. 🈲 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 - [239. 🈲 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
+## TODO
+TODO list from [5. 🈚️ 最长回文子串](https://github.com/imtsingyun/LeetCode/issues/12) all done
+
+TODO list from [42. 🈲 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) all done
+
+TODO list from [322. 🈚️ 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1) all done
+
