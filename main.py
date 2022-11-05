@@ -133,11 +133,11 @@ def add_issue_info(issue, md):
     if difficulty == -1:
         md.write(f"- [{issue.title}]({issue.html_url}) {time}\n")
     elif difficulty == 0:
-        md.write(f"- 🈯[{issue.title}]({issue.html_url}) {time}\n")
+        md.write(f"- 🈯 [{issue.title}]({issue.html_url}) {time}\n")
     elif difficulty == 1:
-        md.write(f"- 🈚️[{issue.title}]({issue.html_url}) {time}\n")
+        md.write(f"- 🈚️ [{issue.title}]({issue.html_url}) {time}\n")
     elif difficulty == 2:
-        md.write(f"- 🈲[{issue.title}]({issue.html_url}) {time}\n")
+        md.write(f"- 🈲 [{issue.title}]({issue.html_url}) {time}\n")
 
 
 def add_md_todo(repo, md, me):
