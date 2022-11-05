@@ -148,8 +148,24 @@ def add_md_todo(repo, md, me):
         md.write("## TODO \n")
         for issue in todo_issues:
             if is_me(issue, me):
-                todo_title, todo_list = parse_TODO(issue)
-                md.write("- [ ] " + todo_title + "\n")
+                todo_title, todo_list = parse_TODO(issue)                
+                # 难度 0easy, 1medium, 2hard
+                difficulty = -1
+                for label in issue.labels:
+                    if "Easy" in label.name:
+                        difficulty = 0
+                    elif "Medium" in label.name:
+                        difficulty = 1
+                    elif "Hard" in label.name: 
+                        difficulty = 2
+                if difficulty == -1:
+                    md.write("- [ ] " + todo_title + "\n")
+                elif difficulty == 0:
+                    md.write("- [ ] 🈯 " + todo_title + "\n")
+                elif difficulty == 1:
+                    md.write("- [ ] 🈚️ " + todo_title + "\n")
+                elif difficulty == 2:
+                    md.write("- [ ] 🈲 " + todo_title + "\n")
                 for t in todo_list:
                     md.write(t + "\n")
                 # new line
