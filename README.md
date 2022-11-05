@@ -10,11 +10,11 @@
 - [面试题 01.09. 🈯️ 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
 - [242. 🈯️ 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
 ## TODO 
-- [ ] [5. 🈚️ 最长回文子串](https://github.com/imtsingyun/LeetCode/issues/12) all done
+- [ ] [5. 🈚️ 最长回文子串](https://github.com/imtsingyun/LeetCode/issues/12)
 
-- [ ] [42. 🈲 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) all done
+- [ ] [42. 🈲 接雨水](https://github.com/imtsingyun/LeetCode/issues/10)
 
-- [ ] [322. 🈚️ 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1) all done
+- [ ] [322. 🈚️ 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1)
 
 ## 字符串（5）
 - [面试题 01.09. 🈯️ 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
