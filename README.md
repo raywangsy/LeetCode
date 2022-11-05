@@ -4,6 +4,10 @@
 
 [🈯️ Easy](https://github.com/imtsingyun/LeetCode#%EF%B8%8F-easy)   [🈚️ Medium](https://github.com/imtsingyun/LeetCode#%EF%B8%8F-medium)   [🈲 Hard](https://github.com/imtsingyun/LeetCode#-hard)
 ## TODO 
+- [ ] [1143. 🈚️ 最长公共子序列](https://github.com/imtsingyun/LeetCode/issues/16)
+
+- [ ] [1048. 🈚️ 最长字符串链](https://github.com/imtsingyun/LeetCode/issues/15)
+
 - [ ] [32. 🈲 最长有效括号](https://github.com/imtsingyun/LeetCode/issues/14)
 
 - [ ] [72. 🈲 编辑距离](https://github.com/imtsingyun/LeetCode/issues/13)
@@ -15,11 +19,11 @@
 - [ ] [322. 🈚️ 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1)
 
 ## 最近更新
+- [1143. 🈚️ 最长公共子序列](https://github.com/imtsingyun/LeetCode/issues/16) 2022-11-05
+- [1048. 🈚️ 最长字符串链](https://github.com/imtsingyun/LeetCode/issues/15) 2022-11-05
 - [32. 🈲 最长有效括号](https://github.com/imtsingyun/LeetCode/issues/14) 2022-11-05
 - [72. 🈲 编辑距离](https://github.com/imtsingyun/LeetCode/issues/13) 2022-11-05
 - [5. 🈚️ 最长回文子串](https://github.com/imtsingyun/LeetCode/issues/12) 2022-11-05
-- [739. 🈚️ 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
-- [42. 🈲 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 ## 字符串（5）
 - [面试题 01.09. 🈯️ 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
 - [242. 🈯️ 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
