@@ -11,7 +11,7 @@ from lxml.etree import CDATA
 MD_HEAD = """## Leetcode 笔记
 本项目使用 [@yihong0618](https://github.com/yihong0618) 的开源项目 [yihong0618/gitblog](https://github.com/yihong0618/gitblog) 创建而成
 \n
-[🈯️ Easy](https://github.com/imtsingyun/LeetCode#%EF%B8%8F-easy), [🈚️ Medium](https://github.com/imtsingyun/LeetCode#%EF%B8%8F-medium), [🈲 Hard](https://github.com/imtsingyun/LeetCode#-hard)
+[🈯️ Easy](https://github.com/imtsingyun/LeetCode#%EF%B8%8F-easy)   [🈚️ Medium](https://github.com/imtsingyun/LeetCode#%EF%B8%8F-medium)   [🈲 Hard](https://github.com/imtsingyun/LeetCode#-hard)
 """
 
 BACKUP_DIR = "BACKUP"
@@ -128,11 +128,11 @@ def add_md_todo(repo, md, me):
     if not TODO_ISSUES_LABELS or not todo_issues:
         return
     with open(md, "a+", encoding="utf-8") as md:
-        md.write("## TODO\n")
+        md.write("## TODO（" + str(todo_issues.totalCount) + "）\n")
         for issue in todo_issues:
             if is_me(issue, me):
                 todo_title, todo_list = parse_TODO(issue)
-                md.write("TODO list from " + todo_title + "\n")
+                md.write("- [ ] " + todo_title + "\n")
                 for t in todo_list:
                     md.write(t + "\n")
                 # new line
