@@ -120,6 +120,7 @@ def get_issues_from_label(repo, label):
 
 def add_issue_info(issue, md):
     time = format_time(issue.created_at)
+    print(issue.labels)
     md.write(f"- [{issue.title}]({issue.html_url}) {time}\n")
 
 
