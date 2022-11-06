@@ -19,11 +19,11 @@
 - [ ] 🈚️ [322. 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1)
 
 ## 最近更新
+- 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
 - 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
 - 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
 - 🈚️ [1143. 最长公共子序列](https://github.com/imtsingyun/LeetCode/issues/16) 2022-11-05
 - 🈚️ [1048. 最长字符串链](https://github.com/imtsingyun/LeetCode/issues/15) 2022-11-05
-- 🈲 [32. 最长有效括号](https://github.com/imtsingyun/LeetCode/issues/14) 2022-11-05
 ## 字符串（6）
 - 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
 - 🈯 [面试题 01.09. 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
@@ -31,7 +31,8 @@
 - 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 - 🈚️ [3. 无重复字符的最长子串 ](https://github.com/imtsingyun/LeetCode/issues/3) 2022-11-03
 - 🈚️ [151. 反转字符串中的单词](https://github.com/imtsingyun/LeetCode/issues/2) 2022-11-03
-## 数组（7）
+## 数组（8）
+- 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
 - 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
 - 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
 - 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
@@ -49,7 +50,8 @@
 ## 动态规划（2）
 - 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 - 🈚️ [322. 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1) 2022-01-22
-## 双指针（3）
+## 双指针（4）
+- 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
 - 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
 - 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 - 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
@@ -73,7 +75,8 @@
 - 🈯 [242. 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
 - 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 - 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
-## 🈚️ Medium（9）
+## 🈚️ Medium（10）
+- 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
 - 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
 - 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
 - 🈚️ [1143. 最长公共子序列](https://github.com/imtsingyun/LeetCode/issues/16) 2022-11-05
