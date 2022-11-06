@@ -169,8 +169,6 @@ def add_md_todo(repo, md, me):
                 for t in todo_list:
                     md.write(t + "\n")
                 # new line
-                md.write("\n")
-
 
 def add_md_top(repo, md, me):
     top_issues = list(get_top_issues(repo))
