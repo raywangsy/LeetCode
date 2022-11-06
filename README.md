@@ -14,11 +14,11 @@
 - 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10)
 - 🈚️ [322. 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1)
 ## 最近更新
-- [1480. 一维数组的动态和](https://github.com/imtsingyun/LeetCode/issues/22) 2022-11-06
+- 🈯 [203. 移除链表元素](https://github.com/imtsingyun/LeetCode/issues/23) 2022-11-06
+- 🈯 [1480. 一维数组的动态和](https://github.com/imtsingyun/LeetCode/issues/22) 2022-11-06
 - 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
 - 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
 - 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
-- 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
 ## 字符串（6）
 - 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
 - 🈯 [面试题 01.09. 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
@@ -27,7 +27,7 @@
 - 🈚️ [3. 无重复字符的最长子串 ](https://github.com/imtsingyun/LeetCode/issues/3) 2022-11-03
 - 🈚️ [151. 反转字符串中的单词](https://github.com/imtsingyun/LeetCode/issues/2) 2022-11-03
 ## 数组（10）
-- [1480. 一维数组的动态和](https://github.com/imtsingyun/LeetCode/issues/22) 2022-11-06
+- 🈯 [1480. 一维数组的动态和](https://github.com/imtsingyun/LeetCode/issues/22) 2022-11-06
 - 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
 - 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
 - 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
@@ -37,6 +37,8 @@
 - 🈯 [242. 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
 - 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
 - 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
+## 链表（1）
+- 🈯 [203. 移除链表元素](https://github.com/imtsingyun/LeetCode/issues/23) 2022-11-06
 ## 树（1）
 - 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 ## 栈（2）
@@ -70,7 +72,9 @@
 - 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
 ## 后续遍历（1）
 - 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
-## 🈯️ Easy（5）
+## 🈯️ Easy（7）
+- 🈯 [203. 移除链表元素](https://github.com/imtsingyun/LeetCode/issues/23) 2022-11-06
+- 🈯 [1480. 一维数组的动态和](https://github.com/imtsingyun/LeetCode/issues/22) 2022-11-06
 - 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
 - 🈯 [面试题 01.09. 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
 - 🈯 [242. 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
