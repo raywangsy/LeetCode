@@ -178,6 +178,8 @@
 - 🈯 [排序算法-选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
 - 🈯 [排序算法-冒泡排序](https://github.com/imtsingyun/LeetCode/issues/42) 2022-11-07
 - 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
+## 分隔（1）
+- 🈚️ [86. 分隔链表](https://github.com/imtsingyun/LeetCode/issues/52) 2022-11-07
 ## 单调队列（2）
 - 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 - 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
