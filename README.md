@@ -14,6 +14,7 @@
 - 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10)
 - 🈚️ [322. 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1)
 ## 最近更新
+- 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
 - 🈯 [203. 移除链表元素](https://github.com/imtsingyun/LeetCode/issues/23) 2022-11-06
 - 🈯 [1480. 一维数组的动态和](https://github.com/imtsingyun/LeetCode/issues/22) 2022-11-06
 - 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
@@ -23,9 +24,9 @@
 - 🈚️ [1143. 最长公共子序列](https://github.com/imtsingyun/LeetCode/issues/16) 2022-11-05
 - 🈚️ [1048. 最长字符串链](https://github.com/imtsingyun/LeetCode/issues/15) 2022-11-05
 - 🈲 [32. 最长有效括号](https://github.com/imtsingyun/LeetCode/issues/14) 2022-11-05
-- 🈲 [72. 编辑距离](https://github.com/imtsingyun/LeetCode/issues/13) 2022-11-05
 <details><summary>显示更多</summary>
 
+- 🈲 [72. 编辑距离](https://github.com/imtsingyun/LeetCode/issues/13) 2022-11-05
 - 🈚️ [5. 最长回文子串](https://github.com/imtsingyun/LeetCode/issues/12) 2022-11-05
 - 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
 - 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
@@ -57,7 +58,8 @@
 - 🈯 [242. 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
 - 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
 - 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
-## 链表（1）
+## 链表（2）
+- 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
 - 🈯 [203. 移除链表元素](https://github.com/imtsingyun/LeetCode/issues/23) 2022-11-06
 ## 树（1）
 - 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
@@ -100,7 +102,8 @@
 - 🈯 [242. 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
 - 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 - 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
-## 🈚️ Medium（10）
+## 🈚️ Medium（11）
+- 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
 - 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
 - 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
 - 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
