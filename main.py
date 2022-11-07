@@ -206,10 +206,15 @@ def add_md_recent(repo, md, me, limit=25):
             md.write("## 最近更新\n")
             for issue in repo.get_issues():
                 if is_me(issue, me):
+                    if count == limit:
+                        md.write("<details><summary>显示更多</summary>\n")
                     add_issue_info(issue, md)
                     count += 1
-                    if count >= limit:
-                        break
+                    # if count >= limit:
+                    #    break
+            if count > limit:
+                md.write("</details>\n")
+                md.write('\n')
         except:
             return
 
@@ -232,7 +237,6 @@ def add_md_label(repo, md, me):
             # we don't need add top label again
             if label.name in IGNORE_LABELS:
                 continue
-
             issues = get_issues_from_label(repo, label)
             if issues.totalCount:
                 md.write("## " + label.name + "（" + str(issues.totalCount) + "）\n")
