@@ -208,6 +208,7 @@ def add_md_recent(repo, md, me, limit=10):
                 if is_me(issue, me):
                     if count == limit:
                         md.write("<details><summary>显示更多</summary>\n")
+                        md.write("\n")
                     add_issue_info(issue, md)
                     count += 1
                     # if count >= limit:
