@@ -24,6 +24,7 @@
 - 🈚️ [1048. 最长字符串链](https://github.com/imtsingyun/LeetCode/issues/15) 2022-11-05
 - 🈲 [32. 最长有效括号](https://github.com/imtsingyun/LeetCode/issues/14) 2022-11-05
 - 🈲 [72. 编辑距离](https://github.com/imtsingyun/LeetCode/issues/13) 2022-11-05
+<details><summary>显示更多</summary>
 - 🈚️ [5. 最长回文子串](https://github.com/imtsingyun/LeetCode/issues/12) 2022-11-05
 - 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
 - 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
@@ -35,6 +36,8 @@
 - 🈚️ [3. 无重复字符的最长子串 ](https://github.com/imtsingyun/LeetCode/issues/3) 2022-11-03
 - 🈚️ [151. 反转字符串中的单词](https://github.com/imtsingyun/LeetCode/issues/2) 2022-11-03
 - 🈚️ [322. 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1) 2022-01-22
+</details>
+
 ## 字符串（6）
 - 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
 - 🈯 [面试题 01.09. 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
