@@ -1,4 +1,4 @@
-## Leetcode 笔记
+# Leetcode 笔记
 本项目是基于 [@yihong0618](https://github.com/yihong0618) 的开源项目 [yihong0618/gitblog](https://github.com/yihong0618/gitblog) 创建而成 
 
 [🈯️ Easy](https://github.com/imtsingyun/LeetCode#easy)   [🈚️ Medium](https://github.com/imtsingyun/LeetCode#medium)   [🈲 Hard](https://github.com/imtsingyun/LeetCode#hard)
