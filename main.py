@@ -120,12 +120,6 @@ def get_issues_from_label(repo, label):
 
 
 def add_issue_info(issue, md):
-    isTodo = False
-    for label in issue.labels:
-        if label.name == 'TODO':
-            isTodo = True
-    if isTodo:
-        return
     time = format_time(issue.created_at)
     # 难度 0easy, 1medium, 2hard
     difficulty = -1
