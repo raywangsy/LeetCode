@@ -1,6 +1,6 @@
 - name: "TODO"
   color: "0052CC"
-  description: "1010#TODO"
+  description: "1000#TODO"
 # ===========================数据结构=============================
 - name: "字符串"
   color: "d73a4a"
@@ -8,94 +8,94 @@
   
 - name: "数组"
   color: "0075ca"
-  description: "1010#数组"
+  description: "1020#数组"
 
 - name: "链表"
   color: "a2eeef"
-  description: "1010#链表"
+  description: "1030#链表"
 
 - name: "队列"
   color: "008672"
-  description: "1010#队列"
+  description: "1040#队列"
 
 - name: "栈"
   color: "e4e669"
-  description: "1010#栈"
+  description: "1050#栈"
 
 - name: "树"
   color: "7057ff"
-  description: "1010#树"
+  description: "1060#树"
 
 - name: "哈希表"
   color: "070364"
-  description: "1010#哈希表"
+  description: "1070#哈希表"
   
 - name: "单调队列"
   color: "5319e7"
-  description: "1010#单调队列"
+  description: "1080#单调队列"
   
 - name: "单调栈"
   color: "c5def5"
-  description: "1010#单调栈"
+  description: "1090#单调栈"
 
 - name: "双端队列"
   color: "fbca04"
-  description: "1010#双端队列"
+  description: "1100#双端队列"
   
 # ==========================常见操作==============================
 - name: "反转/翻转"
   color: "f9d0c4"
-  description: "1010#反转/翻转"
+  description: "2010#反转/翻转"
 
 - name: "字符串拼接"
   color: "fbca04"
-  description: "1010#字符串拼接"
+  description: "2020#字符串拼接"
 
 - name: "排序"
   color: "c5def5"
-  description: "1010#排序"
+  description: "2030#排序"
 
 - name: "滑动窗口"
   color: "0052cc"
-  description: "1010#滑动窗口"
+  description: "2040#滑动窗口"
 
 - name: "双指针"
   color: "d876e3"
-  description: "1010#双指针"
+  description: "2050#双指针"
   
 - name: "后续遍历"
   color: "90A2BF"
-  description: "1010#后续遍历"
+  description: "2060#后续遍历"
 
 - name: "前续遍历"
   color: "E47079"
-  description: "1010#前续遍历"
+  description: "2070#前续遍历"
 
 - name: "中续遍历"
   color: "09AEF2"
-  description: "1010#中续遍历"
+  description: "2080#中续遍历"
 
 - name: "递归"
   color: "f9d0c4"
-  description: "1010#递归"
+  description: "2090#递归"
   
 - name: "分隔"
   color: "1d76db"
-  description: "1010#分隔"
+  description: "2100#分隔"
   
 - name: "动态规划"
   color: "b60205"
-  description: "1010#动态规划"
+  description: "2110#动态规划"
 
 # ==========================其他分类==============================
 - name: "Easy"
   color: "0E8A16"
-  description: "1010#Easy"
-    
-- name: "Hard"
-  color: "D93F0B"
-  description: "1010#Hard"
-    
+  description: "9010#Easy"
+        
 - name: "Medium"
   color: "FBCA04"
-  description: "1010#Medium"
+  description: "9020#Medium"
+  
+- name: "Hard"
+  color: "D93F0B"
+  description: "9030#Hard"
