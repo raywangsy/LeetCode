@@ -84,9 +84,13 @@
   color: "1d76db"
   description: "2100#分隔"
   
+- name: "拼接"
+  color: "1d76db"
+  description: "2110#拼接"
+  
 - name: "动态规划"
   color: "b60205"
-  description: "2110#动态规划"
+  description: "2120#动态规划"
 
 # =============其他分类=============
 - name: "Easy"
