@@ -6,6 +6,7 @@
 - 虚拟头节点
 - 快慢指针
 - 多指针
+- 将两个链表拼接起来，如 https://github.com/imtsingyun/LeetCode/issues/38
 
 #### 常用代码块
 - 链表节点的插入、删除操作
