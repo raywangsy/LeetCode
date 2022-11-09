@@ -165,7 +165,7 @@
 - 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
 ## 后续遍历（1）
 - 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
-## 🈯️ Easy（19）
+## Easy（19）
 - 🈯 [排序算法-插入排序](https://github.com/imtsingyun/LeetCode/issues/45) 2022-11-07
 - 🈯 [排序算法-堆排序](https://github.com/imtsingyun/LeetCode/issues/44) 2022-11-07
 - 🈯 [排序算法-选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
@@ -189,7 +189,7 @@
 - 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
 </details>
 
-## 🈚️ Medium（25）
+## Medium（25）
 - 🈚️ [86. 分隔链表](https://github.com/imtsingyun/LeetCode/issues/52) 2022-11-07
 - 🈚️ [排序算法-桶排序](https://github.com/imtsingyun/LeetCode/issues/51) 2022-11-07
 - 🈚️ [排序算法-基数排序](https://github.com/imtsingyun/LeetCode/issues/50) 2022-11-07
@@ -219,7 +219,7 @@
 - 🈚️ [322. 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1) 2022-01-22
 </details>
 
-## 🈲 Hard（6）
+## Hard（6）
 - 🈲 [25. K 个一组翻转链表](https://github.com/imtsingyun/LeetCode/issues/31) 2022-11-07
 - 🈲 [23. 合并K个升序链表](https://github.com/imtsingyun/LeetCode/issues/29) 2022-11-07
 - 🈲 [32. 最长有效括号](https://github.com/imtsingyun/LeetCode/issues/14) 2022-11-05
