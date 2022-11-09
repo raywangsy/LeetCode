@@ -7,7 +7,7 @@
 ### 常用解题方法总结：[Summary](https://github.com/imtsingyun/LeetCode/blob/master/SUMMARY.md)
 
 
-### Issue Labels [配置文件](https://github.com/imtsingyun/LeetCode/tree/master/.github/config)
+### Issue Labels [配置文件 labels.yml](https://github.com/imtsingyun/LeetCode/tree/master/.github/config/labels.yml)
 ## TODO 
 - 🈚️ [排序算法-桶排序](https://github.com/imtsingyun/LeetCode/issues/51)
 - 🈚️ [排序算法-基数排序](https://github.com/imtsingyun/LeetCode/issues/50)
