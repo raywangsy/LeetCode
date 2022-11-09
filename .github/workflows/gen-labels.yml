@@ -1,4 +1,4 @@
-name: Gen-Labels
+name: Generate Issue Labels
 on:
   workflow_dispatch:
 
