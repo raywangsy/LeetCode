@@ -226,6 +226,7 @@ def add_md_recent(repo, md, me, limit=20):
             #    md.write("</details>\n")
             #    md.write('\n')
         except:
+            print("except...")
             return
 
 
