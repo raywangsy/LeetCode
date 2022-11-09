@@ -175,13 +175,13 @@ def add_md_todo(repo, md, me):
                     elif "Hard" in label.name: 
                         difficulty = 2
                 if difficulty == -1:
-                    md.write("- " + todo_title + "\n")
+                    md.write("- [ ] " + todo_title + "\n")
                 elif difficulty == 0:
-                    md.write("- 🈯 " + todo_title + "\n")
+                    md.write("- [ ] 🈯 " + todo_title + "\n")
                 elif difficulty == 1:
-                    md.write("- 🈚️ " + todo_title + "\n")
+                    md.write("- [ ] 🈚️ " + todo_title + "\n")
                 elif difficulty == 2:
-                    md.write("- 🈲 " + todo_title + "\n")
+                    md.write("- [ ] 🈲 " + todo_title + "\n")
                 for t in todo_list:
                     md.write(t + "\n")
                 # new line
