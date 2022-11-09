@@ -204,8 +204,9 @@ def add_md_recent(repo, md, me, limit=10):
         # one the issue that only one issue and delete (pyGitHub raise an exception)
         try:
             md.write("## 最近更新\n")
+            print("最近更新。。。")
             for issue in repo.get_issues():
-                print(issue.label)
+                print(issue)
                 if is_me(issue, me):
                     if count == limit:
                         md.write("<details><summary>显示更多</summary>\n")
@@ -235,7 +236,7 @@ def add_md_label(repo, md, me):
 
     with open(md, "a+", encoding="utf-8") as md:
         for label in labels:
-            print(label.name + ", " + label.description)
+            # print(label.name + ", " + label.description)
             # we don't need add top label again
             if label.name in IGNORE_LABELS:
                 continue
