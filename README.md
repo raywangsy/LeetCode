@@ -1,13 +1,11 @@
 ## Leetcode 笔记
 本项目是基于 [@yihong0618](https://github.com/yihong0618) 的开源项目 [yihong0618/gitblog](https://github.com/yihong0618/gitblog) 创建而成 
 
-🈯️=Easy · 🈚️=Medium · 🈲=Hard
-
-
 ### 常用解题方法总结：[Summary](https://github.com/imtsingyun/LeetCode/blob/master/SUMMARY.md)
 
-
 ### Issue Labels [配置文件 labels.yml](https://github.com/imtsingyun/LeetCode/tree/master/.github/config/labels.yml)
+
+🈯️ = Easy · 🈚️ = Medium · 🈲 = Hard
 ## TODO（24）
 - 🈚️ [排序算法-桶排序](https://github.com/imtsingyun/LeetCode/issues/51)
 - 🈚️ [排序算法-基数排序](https://github.com/imtsingyun/LeetCode/issues/50)
