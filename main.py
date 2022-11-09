@@ -148,7 +148,7 @@ def add_md_todo(repo, md, me):
     if not TODO_ISSUES_LABELS or not todo_issues:
         return
     with open(md, "a+", encoding="utf-8") as md:
-        md.write("## TODO（" + str(issues.totalCount) + "）\n")
+        md.write("## TODO（" + str(todo_issues.totalCount) + "）\n")
         for issue in todo_issues:
             if is_me(issue, me):
                 todo_title, todo_list = parse_TODO(issue)                
