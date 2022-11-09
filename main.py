@@ -14,7 +14,7 @@ MD_HEAD = """## Leetcode 笔记
 \n
 ### 常用解题方法总结：[Summary](https://github.com/imtsingyun/LeetCode/blob/master/SUMMARY.md)
 \n
-### Issue Labels [配置文件](https://github.com/imtsingyun/LeetCode/tree/master/.github/config/labels.yml)
+### Issue Labels [配置文件 labels.yml](https://github.com/imtsingyun/LeetCode/tree/master/.github/config/labels.yml)
 """
 
 BACKUP_DIR = "BACKUP"
