@@ -206,7 +206,7 @@ def add_md_recent(repo, md, me, limit=20):
     with open(md, "a+", encoding="utf-8") as md:
         # one the issue that only one issue and delete (pyGitHub raise an exception)
         try:
-            md.write("## 最近更新（" + limit + "）\n")
+            md.write("## 最近更新（20）\n")
             print(repo.get_issues())
             for issue in repo.get_issues():
                 isTodo = False
