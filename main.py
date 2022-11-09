@@ -130,16 +130,31 @@ def add_issue_info(issue, md):
             difficulty = 1
         elif "Hard" in label.name: 
             difficulty = 2
-    
-    if difficulty == -1:
-        md.write(f"- [{issue.title}]({issue.html_url}) {time}\n")
-    elif difficulty == 0:
-        md.write(f"- 🈯 [{issue.title}]({issue.html_url}) {time}\n")
-    elif difficulty == 1:
-        md.write(f"- 🈚️ [{issue.title}]({issue.html_url}) {time}\n")
-    elif difficulty == 2:
-        md.write(f"- 🈲 [{issue.title}]({issue.html_url}) {time}\n")
+    isTodo = False
+    for label in issue.labels:
+        if label.name == "TODO":
+            isTodo = True
 
+    if difficulty == -1:
+        if isTodo:
+            md.write(f"- [ ][{issue.title}]({issue.html_url}) {time}\n")
+        else:
+            md.write(f"- [x][{issue.title}]({issue.html_url}) {time}\n")
+    elif difficulty == 0:
+        if isTodo:
+            md.write(f"- [ ] 🈯 [{issue.title}]({issue.html_url}) {time}\n")
+        else:
+            md.write(f"- [x] 🈯 [{issue.title}]({issue.html_url}) {time}\n")
+    elif difficulty == 1:
+        if isTodo:
+            md.write(f"- [ ] 🈚️ [{issue.title}]({issue.html_url}) {time}\n")
+        else:
+            md.write(f"- [x] 🈚️ [{issue.title}]({issue.html_url}) {time}\n")
+    elif difficulty == 2:
+        if isTodo:
+            md.write(f"- [ ] 🈲 [{issue.title}]({issue.html_url}) {time}\n")
+        else:
+            md.write(f"- [x] 🈲 [{issue.title}]({issue.html_url}) {time}\n")
 
 def add_md_todo(repo, md, me):
     todo_issues = list(get_todo_issues(repo))
