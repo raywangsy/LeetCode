@@ -41,8 +41,6 @@
 - 🈯 [排序算法-选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
 - 🈯 [排序算法-冒泡排序](https://github.com/imtsingyun/LeetCode/issues/42) 2022-11-07
 - 🈯 [206. 反转链表](https://github.com/imtsingyun/LeetCode/issues/26) 2022-11-07
-<details><summary>显示更多</summary>
-
 - 🈯 [剑指 Offer 24. 反转链表](https://github.com/imtsingyun/LeetCode/issues/25) 2022-11-07
 - 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
 - 🈯 [203. 移除链表元素](https://github.com/imtsingyun/LeetCode/issues/23) 2022-11-06
@@ -53,6 +51,8 @@
 - 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
 - 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
 - 🈯 [面试题 01.09. 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
+<details><summary>显示更多</summary>
+
 - 🈯 [242. 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
 - 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 - 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
