@@ -5,6 +5,9 @@
 
 
 ### 常用解题方法总结：[Summary](https://github.com/imtsingyun/LeetCode/blob/master/SUMMARY.md)
+
+
+### Issue Labels [配置文件](https://github.com/imtsingyun/LeetCode/tree/master/.github/config)
 ## TODO 
 - 🈚️ [排序算法-桶排序](https://github.com/imtsingyun/LeetCode/issues/51)
 - 🈚️ [排序算法-基数排序](https://github.com/imtsingyun/LeetCode/issues/50)
@@ -108,30 +111,26 @@
 - 🈯 [203. 移除链表元素](https://github.com/imtsingyun/LeetCode/issues/23) 2022-11-06
 </details>
 
-## 树（1）
-- 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 ## 栈（2）
 - 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
 - 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
+## 树（1）
+- 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 ## 哈希表（1）
 - 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
-## 动态规划（2）
+## 单调队列（2）
 - 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
-- 🈚️ [322. 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1) 2022-01-22
-## 双指针（5）
-- 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
-- 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
-- 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
-- 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
-- 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
+- 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
+## 单调栈（1）
+- 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
+## 双端队列（1）
+- 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
 ## 反转/翻转（3）
 - 🈯 [206. 反转链表](https://github.com/imtsingyun/LeetCode/issues/26) 2022-11-07
 - 🈯 [剑指 Offer 24. 反转链表](https://github.com/imtsingyun/LeetCode/issues/25) 2022-11-07
 - 🈚️ [151. 反转字符串中的单词](https://github.com/imtsingyun/LeetCode/issues/2) 2022-11-03
 ## 字符串拼接（1）
 - 🈯 [面试题 01.09. 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
-## 滑动窗口（1）
-- 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
 ## 排序（11）
 - 🈚️ [排序算法-桶排序](https://github.com/imtsingyun/LeetCode/issues/51) 2022-11-07
 - 🈚️ [排序算法-基数排序](https://github.com/imtsingyun/LeetCode/issues/50) 2022-11-07
@@ -144,17 +143,21 @@
 - 🈯 [排序算法-选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
 - 🈯 [排序算法-冒泡排序](https://github.com/imtsingyun/LeetCode/issues/42) 2022-11-07
 - 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
-## 分隔（1）
-- 🈚️ [86. 分隔链表](https://github.com/imtsingyun/LeetCode/issues/52) 2022-11-07
-## 单调队列（2）
+## 滑动窗口（1）
+- 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
+## 双指针（5）
+- 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
+- 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
+- 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
 - 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
-- 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
-## 双端队列（1）
-- 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
-## 单调栈（1）
-- 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
+- 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
 ## 后续遍历（1）
 - 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
+## 分隔（1）
+- 🈚️ [86. 分隔链表](https://github.com/imtsingyun/LeetCode/issues/52) 2022-11-07
+## 动态规划（2）
+- 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
+- 🈚️ [322. 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1) 2022-01-22
 ## Easy（19）
 - 🈯 [排序算法-插入排序](https://github.com/imtsingyun/LeetCode/issues/45) 2022-11-07
 - 🈯 [排序算法-堆排序](https://github.com/imtsingyun/LeetCode/issues/44) 2022-11-07
