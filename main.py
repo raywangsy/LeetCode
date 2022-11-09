@@ -206,8 +206,13 @@ def add_md_recent(repo, md, me, limit=10):
             md.write("## 最近更新\n")
             print("最近更新。。。")
             for issue in repo.get_issues():
-                print(issue.labels)
-                if is_me(issue, me):
+                isTodo = False
+                for label in issue.labels:
+                    if label.name == 'TODO':
+                        isTodo = True
+                
+                if is_me(issue, me) and isTodo==False:
+                    print(issue.labels)
                     if count == limit:
                         md.write("<details><summary>显示更多</summary>\n")
                         md.write("\n")
