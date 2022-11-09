@@ -7,6 +7,7 @@
 - 快慢指针
 - 多指针
 - 将两个链表拼接起来，如 https://github.com/imtsingyun/LeetCode/issues/38
+- 将一个链表分割成多个，如 https://github.com/imtsingyun/LeetCode/issues/52
 
 #### 常用代码块
 - 链表节点的插入、删除操作
