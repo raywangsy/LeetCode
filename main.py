@@ -201,6 +201,7 @@ def add_md_firends(repo, md, me):
 
 
 def add_md_recent(repo, md, me, limit=20):
+    print("最近更新")
     count = 0
     with open(md, "a+", encoding="utf-8") as md:
         # one the issue that only one issue and delete (pyGitHub raise an exception)
