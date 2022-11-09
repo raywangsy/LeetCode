@@ -40,9 +40,9 @@
 - 🈚️ [排序算法-快速排序](https://github.com/imtsingyun/LeetCode/issues/47) 2022-11-07
 - 🈚️ [排序算法-归并排序](https://github.com/imtsingyun/LeetCode/issues/46) 2022-11-07
 - 🈯 [排序算法-插入排序](https://github.com/imtsingyun/LeetCode/issues/45) 2022-11-07
-- 🈯 [排序算法-堆排序](https://github.com/imtsingyun/LeetCode/issues/44) 2022-11-07
-- 🈯 [排序算法-选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
-- 🈯 [排序算法-冒泡排序](https://github.com/imtsingyun/LeetCode/issues/42) 2022-11-07
+- 🈚️ [排序](https://github.com/imtsingyun/LeetCode/issues/44) 2022-11-07
+- 🈯 [选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
+- 🈯 [冒泡排序](https://github.com/imtsingyun/LeetCode/issues/42) 2022-11-07
 - 🈯 [206. 反转链表](https://github.com/imtsingyun/LeetCode/issues/26) 2022-11-07
 - 🈯 [剑指 Offer 24. 反转链表](https://github.com/imtsingyun/LeetCode/issues/25) 2022-11-07
 - 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
@@ -67,9 +67,9 @@
 - 🈚️ [排序算法-快速排序](https://github.com/imtsingyun/LeetCode/issues/47) 2022-11-07
 - 🈚️ [排序算法-归并排序](https://github.com/imtsingyun/LeetCode/issues/46) 2022-11-07
 - 🈯 [排序算法-插入排序](https://github.com/imtsingyun/LeetCode/issues/45) 2022-11-07
-- 🈯 [排序算法-堆排序](https://github.com/imtsingyun/LeetCode/issues/44) 2022-11-07
-- 🈯 [排序算法-选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
-- 🈯 [排序算法-冒泡排序](https://github.com/imtsingyun/LeetCode/issues/42) 2022-11-07
+- 🈚️ [排序](https://github.com/imtsingyun/LeetCode/issues/44) 2022-11-07
+- 🈯 [选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
+- 🈯 [冒泡排序](https://github.com/imtsingyun/LeetCode/issues/42) 2022-11-07
 - 🈯 [1480. 一维数组的动态和](https://github.com/imtsingyun/LeetCode/issues/22) 2022-11-06
 - 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
 - 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
@@ -117,9 +117,9 @@
 - 🈚️ [排序算法-快速排序](https://github.com/imtsingyun/LeetCode/issues/47) 2022-11-07
 - 🈚️ [排序算法-归并排序](https://github.com/imtsingyun/LeetCode/issues/46) 2022-11-07
 - 🈯 [排序算法-插入排序](https://github.com/imtsingyun/LeetCode/issues/45) 2022-11-07
-- 🈯 [排序算法-堆排序](https://github.com/imtsingyun/LeetCode/issues/44) 2022-11-07
-- 🈯 [排序算法-选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
-- 🈯 [排序算法-冒泡排序](https://github.com/imtsingyun/LeetCode/issues/42) 2022-11-07
+- 🈚️ [排序](https://github.com/imtsingyun/LeetCode/issues/44) 2022-11-07
+- 🈯 [选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
+- 🈯 [冒泡排序](https://github.com/imtsingyun/LeetCode/issues/42) 2022-11-07
 - 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
 ## 滑动窗口（1）
 - 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
@@ -133,33 +133,33 @@
 ## 分隔（1）
 - 🈚️ [86. 分隔链表](https://github.com/imtsingyun/LeetCode/issues/52) 2022-11-07
 ## 动态规划（2）
-## Easy（19）
+## Easy（18）
 - 🈯 [排序算法-插入排序](https://github.com/imtsingyun/LeetCode/issues/45) 2022-11-07
-- 🈯 [排序算法-堆排序](https://github.com/imtsingyun/LeetCode/issues/44) 2022-11-07
-- 🈯 [排序算法-选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
-- 🈯 [排序算法-冒泡排序](https://github.com/imtsingyun/LeetCode/issues/42) 2022-11-07
+- 🈯 [选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
+- 🈯 [冒泡排序](https://github.com/imtsingyun/LeetCode/issues/42) 2022-11-07
 - 🈯 [206. 反转链表](https://github.com/imtsingyun/LeetCode/issues/26) 2022-11-07
 - 🈯 [剑指 Offer 24. 反转链表](https://github.com/imtsingyun/LeetCode/issues/25) 2022-11-07
 - 🈯 [203. 移除链表元素](https://github.com/imtsingyun/LeetCode/issues/23) 2022-11-06
 - 🈯 [1480. 一维数组的动态和](https://github.com/imtsingyun/LeetCode/issues/22) 2022-11-06
 - 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
+- 🈯 [面试题 01.09. 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
 <details><summary>显示更多</summary>
 
-- 🈯 [面试题 01.09. 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
 - 🈯 [242. 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
 - 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 - 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
 </details>
 
-## Medium（25）
+## Medium（26）
 - 🈚️ [86. 分隔链表](https://github.com/imtsingyun/LeetCode/issues/52) 2022-11-07
 - 🈚️ [排序算法-计数排序](https://github.com/imtsingyun/LeetCode/issues/49) 2022-11-07
 - 🈚️ [排序算法-希尔排序](https://github.com/imtsingyun/LeetCode/issues/48) 2022-11-07
 - 🈚️ [排序算法-快速排序](https://github.com/imtsingyun/LeetCode/issues/47) 2022-11-07
 - 🈚️ [排序算法-归并排序](https://github.com/imtsingyun/LeetCode/issues/46) 2022-11-07
-- 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
+- 🈚️ [排序](https://github.com/imtsingyun/LeetCode/issues/44) 2022-11-07
 <details><summary>显示更多</summary>
 
+- 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
 - 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
 - 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
 - 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
