@@ -218,11 +218,11 @@ def add_md_recent(repo, md, me, limit=20):
                         md.write("\n")
                     add_issue_info(issue, md)
                     count += 1
-                    # if count >= limit:
-                    #    break
-            if count > limit:
-                md.write("</details>\n")
-                md.write('\n')
+                    if count >= limit:
+                       break
+            #if count > limit:
+            #    md.write("</details>\n")
+            #    md.write('\n')
         except:
             return
 
