@@ -148,7 +148,7 @@ def add_md_todo(repo, md, me):
     if not TODO_ISSUES_LABELS or not todo_issues:
         return
     with open(md, "a+", encoding="utf-8") as md:
-        md.write("## TODO \n")
+        md.write("## TODO（" + str(issues.totalCount) + "）\n")
         for issue in todo_issues:
             if is_me(issue, me):
                 todo_title, todo_list = parse_TODO(issue)                
@@ -205,16 +205,13 @@ def add_md_recent(repo, md, me, limit=20):
     with open(md, "a+", encoding="utf-8") as md:
         # one the issue that only one issue and delete (pyGitHub raise an exception)
         try:
-            md.write("## 最近更新\n")
-            print("最近更新。。。")
+            md.write("## 最近更新（" + limit + "）\n")
             for issue in repo.get_issues():
                 isTodo = False
                 for label in issue.labels:
                     if label.name == 'TODO':
                         isTodo = True
-                
                 if is_me(issue, me) and isTodo==False:
-                    print(issue.labels)
                     if count == limit:
                         md.write("<details><summary>显示更多</summary>\n")
                         md.write("\n")
