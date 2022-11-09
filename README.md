@@ -3,7 +3,7 @@
 
 ### 常用解题方法总结：[Summary](https://github.com/imtsingyun/LeetCode/blob/master/SUMMARY.md)
 
-### Issue Labels [配置文件 labels.yml](https://github.com/imtsingyun/LeetCode/tree/master/.github/config/labels.yml)
+### Labels [配置文件 labels.yml](https://github.com/imtsingyun/LeetCode/tree/master/.github/config/labels.yml)
 
 🈯️ = Easy · 🈚️ = Medium · 🈲 = Hard
 ## TODO（24）
