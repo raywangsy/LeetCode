@@ -7,8 +7,8 @@
 
 🈯️ = Easy · 🈚️ = Medium · 🈲 = Hard
 ## TODO（24）
-- 🈚️ [排序算法-桶排序](https://github.com/imtsingyun/LeetCode/issues/51)
-- 🈚️ [排序算法-基数排序](https://github.com/imtsingyun/LeetCode/issues/50)
+- 🈚️ [桶排序](https://github.com/imtsingyun/LeetCode/issues/51)
+- 🈚️ [基数排序](https://github.com/imtsingyun/LeetCode/issues/50)
 - 🈯 [876. 链表的中间结点](https://github.com/imtsingyun/LeetCode/issues/41)
 - 🈚️ [237. 删除链表中的节点](https://github.com/imtsingyun/LeetCode/issues/40)
 - 🈯 [234. 回文链表](https://github.com/imtsingyun/LeetCode/issues/39)
