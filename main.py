@@ -13,6 +13,8 @@ MD_HEAD = """## Leetcode 笔记
 [🈯️ Easy](https://github.com/imtsingyun/LeetCode#easy)   [🈚️ Medium](https://github.com/imtsingyun/LeetCode#medium)   [🈲 Hard](https://github.com/imtsingyun/LeetCode#hard)
 \n
 ### 常用解题方法总结：[Summary](https://github.com/imtsingyun/LeetCode/blob/master/SUMMARY.md)
+\n
+### Issue Labels [配置文件](https://github.com/imtsingyun/LeetCode/tree/master/.github/config)
 """
 
 BACKUP_DIR = "BACKUP"
