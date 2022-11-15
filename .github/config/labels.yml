@@ -64,6 +64,10 @@
   color: "d876e3"
   description: "2050#双指针"
   
+- name: "快慢指针"
+  color: "1d76db"
+  description: "2051#快慢指针"
+  
 - name: "后续遍历"
   color: "90A2BF"
   description: "2060#后续遍历"
