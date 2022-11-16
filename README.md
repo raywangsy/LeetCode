@@ -6,7 +6,7 @@
 ### Labels [配置文件 labels.yml](https://github.com/imtsingyun/LeetCode/tree/master/.github/config/labels.yml)
 
 🈯️ = Easy · 🈚️ = Medium · 🈲 = Hard
-## TODO（15）
+## TODO（14）
 - [ ] 🈚️ [桶排序](https://github.com/imtsingyun/LeetCode/issues/51)
 - [ ] 🈚️ [基数排序](https://github.com/imtsingyun/LeetCode/issues/50)
 - [ ] 🈚️ [138. 复制带随机指针的链表](https://github.com/imtsingyun/LeetCode/issues/36)
@@ -15,7 +15,6 @@
 - [ ] 🈲 [25. K 个一组翻转链表](https://github.com/imtsingyun/LeetCode/issues/31)
 - [ ] 🈚️ [24. 两两交换链表中的节点](https://github.com/imtsingyun/LeetCode/issues/30)
 - [ ] 🈲 [23. 合并K个升序链表](https://github.com/imtsingyun/LeetCode/issues/29)
-- [ ] 🈚️ [19. 删除链表的倒数第 N 个结点](https://github.com/imtsingyun/LeetCode/issues/27)
 - [ ] 🈚️ [1143. 最长公共子序列](https://github.com/imtsingyun/LeetCode/issues/16)
 - [ ] 🈚️ [1048. 最长字符串链](https://github.com/imtsingyun/LeetCode/issues/15)
 - [ ] 🈲 [32. 最长有效括号](https://github.com/imtsingyun/LeetCode/issues/14)
@@ -40,9 +39,9 @@
 - [x] 🈯 [83. 删除排序链表中的重复元素](https://github.com/imtsingyun/LeetCode/issues/34) 2022-11-07
 - [x] 🈚️ [61. 旋转链表](https://github.com/imtsingyun/LeetCode/issues/32) 2022-11-07
 - [x] 🈯 [21. 合并两个有序链表](https://github.com/imtsingyun/LeetCode/issues/28) 2022-11-07
+- [x] 🈚️ [19. 删除链表的倒数第 N 个结点](https://github.com/imtsingyun/LeetCode/issues/27) 2022-11-07
 - [x] 🈯 [206. 反转链表](https://github.com/imtsingyun/LeetCode/issues/26) 2022-11-07
 - [x] 🈯 [剑指 Offer 24. 反转链表](https://github.com/imtsingyun/LeetCode/issues/25) 2022-11-07
-- [x] 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
 ## 字符串（6）
 - [x] 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
 - [x] 🈯 [面试题 01.09. 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
@@ -87,7 +86,7 @@
 - [ ] 🈚️ [24. 两两交换链表中的节点](https://github.com/imtsingyun/LeetCode/issues/30) 2022-11-07
 - [ ] 🈲 [23. 合并K个升序链表](https://github.com/imtsingyun/LeetCode/issues/29) 2022-11-07
 - [x] 🈯 [21. 合并两个有序链表](https://github.com/imtsingyun/LeetCode/issues/28) 2022-11-07
-- [ ] 🈚️ [19. 删除链表的倒数第 N 个结点](https://github.com/imtsingyun/LeetCode/issues/27) 2022-11-07
+- [x] 🈚️ [19. 删除链表的倒数第 N 个结点](https://github.com/imtsingyun/LeetCode/issues/27) 2022-11-07
 - [x] 🈯 [206. 反转链表](https://github.com/imtsingyun/LeetCode/issues/26) 2022-11-07
 - [x] 🈯 [剑指 Offer 24. 反转链表](https://github.com/imtsingyun/LeetCode/issues/25) 2022-11-07
 - [x] 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
@@ -130,18 +129,20 @@
 - [x] 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
 ## 滑动窗口（1）
 - [x] 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
-## 双指针（7）
+## 双指针（8）
 - [x] 🈯 [141. 环形链表](https://github.com/imtsingyun/LeetCode/issues/37) 2022-11-07
 - [x] 🈚️ [61. 旋转链表](https://github.com/imtsingyun/LeetCode/issues/32) 2022-11-07
+- [x] 🈚️ [19. 删除链表的倒数第 N 个结点](https://github.com/imtsingyun/LeetCode/issues/27) 2022-11-07
 - [x] 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
 - [x] 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
 - [x] 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
 - [x] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 - [x] 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
-## 快慢指针（3）
+## 快慢指针（4）
 - [x] 🈯 [876. 链表的中间结点](https://github.com/imtsingyun/LeetCode/issues/41) 2022-11-07
 - [x] 🈯 [234. 回文链表](https://github.com/imtsingyun/LeetCode/issues/39) 2022-11-07
 - [x] 🈚️ [61. 旋转链表](https://github.com/imtsingyun/LeetCode/issues/32) 2022-11-07
+- [x] 🈚️ [19. 删除链表的倒数第 N 个结点](https://github.com/imtsingyun/LeetCode/issues/27) 2022-11-07
 ## 后续遍历（1）
 - [x] 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 ## 递归（1）
@@ -188,7 +189,7 @@
 - [ ] 🈚️ [82. 删除排序链表中的重复元素 II](https://github.com/imtsingyun/LeetCode/issues/33) 2022-11-07
 - [x] 🈚️ [61. 旋转链表](https://github.com/imtsingyun/LeetCode/issues/32) 2022-11-07
 - [ ] 🈚️ [24. 两两交换链表中的节点](https://github.com/imtsingyun/LeetCode/issues/30) 2022-11-07
-- [ ] 🈚️ [19. 删除链表的倒数第 N 个结点](https://github.com/imtsingyun/LeetCode/issues/27) 2022-11-07
+- [x] 🈚️ [19. 删除链表的倒数第 N 个结点](https://github.com/imtsingyun/LeetCode/issues/27) 2022-11-07
 - [x] 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
 - [x] 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
 - [x] 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
