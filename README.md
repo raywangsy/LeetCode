@@ -6,11 +6,10 @@
 ### Labels [配置文件 labels.yml](https://github.com/imtsingyun/LeetCode/tree/master/.github/config/labels.yml)
 
 🈯️ = Easy · 🈚️ = Medium · 🈲 = Hard
-## TODO（18）
+## TODO（17）
 - [ ] 🈚️ [桶排序](https://github.com/imtsingyun/LeetCode/issues/51)
 - [ ] 🈚️ [基数排序](https://github.com/imtsingyun/LeetCode/issues/50)
 - [ ] 🈚️ [237. 删除链表中的节点](https://github.com/imtsingyun/LeetCode/issues/40)
-- [ ] 🈯 [234. 回文链表](https://github.com/imtsingyun/LeetCode/issues/39)
 - [ ] 🈚️ [138. 复制带随机指针的链表](https://github.com/imtsingyun/LeetCode/issues/36)
 - [ ] 🈚️ [114. 二叉树展开为链表](https://github.com/imtsingyun/LeetCode/issues/35)
 - [ ] 🈚️ [82. 删除排序链表中的重复元素 II](https://github.com/imtsingyun/LeetCode/issues/33)
@@ -36,6 +35,7 @@
 - [x] 🈯 [选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
 - [x] 🈯 [冒泡排序](https://github.com/imtsingyun/LeetCode/issues/42) 2022-11-07
 - [x] 🈯 [876. 链表的中间结点](https://github.com/imtsingyun/LeetCode/issues/41) 2022-11-07
+- [x] 🈯 [234. 回文链表](https://github.com/imtsingyun/LeetCode/issues/39) 2022-11-07
 - [x] 🈯 [160. 相交链表](https://github.com/imtsingyun/LeetCode/issues/38) 2022-11-07
 - [x] 🈯 [141. 环形链表](https://github.com/imtsingyun/LeetCode/issues/37) 2022-11-07
 - [x] 🈯 [83. 删除排序链表中的重复元素](https://github.com/imtsingyun/LeetCode/issues/34) 2022-11-07
@@ -45,7 +45,6 @@
 - [x] 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
 - [x] 🈯 [203. 移除链表元素](https://github.com/imtsingyun/LeetCode/issues/23) 2022-11-06
 - [x] 🈯 [1480. 一维数组的动态和](https://github.com/imtsingyun/LeetCode/issues/22) 2022-11-06
-- [x] 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
 ## 字符串（6）
 - [x] 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
 - [x] 🈯 [面试题 01.09. 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
@@ -82,7 +81,7 @@
 - [x] 🈚️ [86. 分隔链表](https://github.com/imtsingyun/LeetCode/issues/52) 2022-11-07
 - [x] 🈯 [876. 链表的中间结点](https://github.com/imtsingyun/LeetCode/issues/41) 2022-11-07
 - [ ] 🈚️ [237. 删除链表中的节点](https://github.com/imtsingyun/LeetCode/issues/40) 2022-11-07
-- [ ] 🈯 [234. 回文链表](https://github.com/imtsingyun/LeetCode/issues/39) 2022-11-07
+- [x] 🈯 [234. 回文链表](https://github.com/imtsingyun/LeetCode/issues/39) 2022-11-07
 - [x] 🈯 [160. 相交链表](https://github.com/imtsingyun/LeetCode/issues/38) 2022-11-07
 - [x] 🈯 [141. 环形链表](https://github.com/imtsingyun/LeetCode/issues/37) 2022-11-07
 - [ ] 🈚️ [138. 复制带随机指针的链表](https://github.com/imtsingyun/LeetCode/issues/36) 2022-11-07
@@ -103,7 +102,8 @@
 - [x] 🈯 [203. 移除链表元素](https://github.com/imtsingyun/LeetCode/issues/23) 2022-11-06
 </details>
 
-## 栈（2）
+## 栈（3）
+- [x] 🈯 [234. 回文链表](https://github.com/imtsingyun/LeetCode/issues/39) 2022-11-07
 - [x] 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
 - [x] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 ## 树（1）
@@ -117,7 +117,8 @@
 - [x] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 ## 双端队列（1）
 - [x] 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
-## 反转/翻转（3）
+## 反转/翻转（4）
+- [x] 🈯 [234. 回文链表](https://github.com/imtsingyun/LeetCode/issues/39) 2022-11-07
 - [x] 🈯 [206. 反转链表](https://github.com/imtsingyun/LeetCode/issues/26) 2022-11-07
 - [x] 🈯 [剑指 Offer 24. 反转链表](https://github.com/imtsingyun/LeetCode/issues/25) 2022-11-07
 - [x] 🈚️ [151. 反转字符串中的单词](https://github.com/imtsingyun/LeetCode/issues/2) 2022-11-03
@@ -145,10 +146,13 @@
 - [x] 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
 - [x] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 - [x] 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
-## 快慢指针（1）
+## 快慢指针（2）
 - [x] 🈯 [876. 链表的中间结点](https://github.com/imtsingyun/LeetCode/issues/41) 2022-11-07
+- [x] 🈯 [234. 回文链表](https://github.com/imtsingyun/LeetCode/issues/39) 2022-11-07
 ## 后续遍历（1）
 - [x] 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
+## 递归（1）
+- [x] 🈯 [234. 回文链表](https://github.com/imtsingyun/LeetCode/issues/39) 2022-11-07
 ## 分隔（1）
 - [x] 🈚️ [86. 分隔链表](https://github.com/imtsingyun/LeetCode/issues/52) 2022-11-07
 ## 拼接（2）
@@ -162,7 +166,7 @@
 - [x] 🈯 [选择排序](https://github.com/imtsingyun/LeetCode/issues/43) 2022-11-07
 - [x] 🈯 [冒泡排序](https://github.com/imtsingyun/LeetCode/issues/42) 2022-11-07
 - [x] 🈯 [876. 链表的中间结点](https://github.com/imtsingyun/LeetCode/issues/41) 2022-11-07
-- [ ] 🈯 [234. 回文链表](https://github.com/imtsingyun/LeetCode/issues/39) 2022-11-07
+- [x] 🈯 [234. 回文链表](https://github.com/imtsingyun/LeetCode/issues/39) 2022-11-07
 - [x] 🈯 [160. 相交链表](https://github.com/imtsingyun/LeetCode/issues/38) 2022-11-07
 - [x] 🈯 [141. 环形链表](https://github.com/imtsingyun/LeetCode/issues/37) 2022-11-07
 - [x] 🈯 [83. 删除排序链表中的重复元素](https://github.com/imtsingyun/LeetCode/issues/34) 2022-11-07
