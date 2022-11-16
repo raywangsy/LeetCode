@@ -6,7 +6,7 @@
 ### Labels [配置文件 labels.yml](https://github.com/imtsingyun/LeetCode/tree/master/.github/config/labels.yml)
 
 🈯️ = Easy · 🈚️ = Medium · 🈲 = Hard
-## TODO（20）
+## TODO（19）
 - [ ] 🈚️ [桶排序](https://github.com/imtsingyun/LeetCode/issues/51)
 - [ ] 🈚️ [基数排序](https://github.com/imtsingyun/LeetCode/issues/50)
 - [ ] 🈚️ [237. 删除链表中的节点](https://github.com/imtsingyun/LeetCode/issues/40)
@@ -25,7 +25,6 @@
 - [ ] 🈲 [32. 最长有效括号](https://github.com/imtsingyun/LeetCode/issues/14)
 - [ ] 🈲 [72. 编辑距离](https://github.com/imtsingyun/LeetCode/issues/13)
 - [ ] 🈚️ [5. 最长回文子串](https://github.com/imtsingyun/LeetCode/issues/12)
-- [ ] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10)
 - [ ] 🈚️ [322. 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1)
 ## 最近更新（20）
 - [x] 🈚️ [86. 分隔链表](https://github.com/imtsingyun/LeetCode/issues/52) 2022-11-07
@@ -74,7 +73,7 @@
 <details><summary>显示更多</summary>
 
 - [x] 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
-- [ ] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
+- [x] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 - [x] 🈯 [242. 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
 - [x] 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
 - [x] 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
@@ -107,16 +106,16 @@
 
 ## 栈（2）
 - [x] 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
-- [ ] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
+- [x] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 ## 树（1）
 - [x] 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 ## 哈希表（1）
 - [x] 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
-## 单调队列（2）
-- [ ] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
+## 单调队列（1）
 - [x] 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
-## 单调栈（1）
+## 单调栈（2）
 - [x] 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
+- [x] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 ## 双端队列（1）
 - [x] 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
 ## 反转/翻转（3）
@@ -145,7 +144,7 @@
 - [x] 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
 - [x] 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
 - [x] 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
-- [ ] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
+- [x] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 - [x] 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
 ## 快慢指针（1）
 - [x] 🈯 [876. 链表的中间结点](https://github.com/imtsingyun/LeetCode/issues/41) 2022-11-07
@@ -157,7 +156,7 @@
 - [x] 🈯 [160. 相交链表](https://github.com/imtsingyun/LeetCode/issues/38) 2022-11-07
 - [x] 🈯 [21. 合并两个有序链表](https://github.com/imtsingyun/LeetCode/issues/28) 2022-11-07
 ## 动态规划（2）
-- [ ] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
+- [x] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 - [ ] 🈚️ [322. 零钱兑换](https://github.com/imtsingyun/LeetCode/issues/1) 2022-01-22
 ## Easy（18）
 - [x] 🈯 [插入排序](https://github.com/imtsingyun/LeetCode/issues/45) 2022-11-07
@@ -218,5 +217,5 @@
 - [ ] 🈲 [23. 合并K个升序链表](https://github.com/imtsingyun/LeetCode/issues/29) 2022-11-07
 - [ ] 🈲 [32. 最长有效括号](https://github.com/imtsingyun/LeetCode/issues/14) 2022-11-05
 - [ ] 🈲 [72. 编辑距离](https://github.com/imtsingyun/LeetCode/issues/13) 2022-11-05
-- [ ] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
+- [x] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 - [x] 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
