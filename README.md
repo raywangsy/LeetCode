@@ -6,14 +6,13 @@
 ### Labels [配置文件 labels.yml](https://github.com/imtsingyun/LeetCode/tree/master/.github/config/labels.yml)
 
 🈯️ = Easy · 🈚️ = Medium · 🈲 = Hard
-## TODO（14）
+## TODO（13）
 - [ ] 🈚️ [桶排序](https://github.com/imtsingyun/LeetCode/issues/51)
 - [ ] 🈚️ [基数排序](https://github.com/imtsingyun/LeetCode/issues/50)
 - [ ] 🈚️ [138. 复制带随机指针的链表](https://github.com/imtsingyun/LeetCode/issues/36)
 - [ ] 🈚️ [114. 二叉树展开为链表](https://github.com/imtsingyun/LeetCode/issues/35)
 - [ ] 🈚️ [82. 删除排序链表中的重复元素 II](https://github.com/imtsingyun/LeetCode/issues/33)
 - [ ] 🈲 [25. K 个一组翻转链表](https://github.com/imtsingyun/LeetCode/issues/31)
-- [ ] 🈚️ [24. 两两交换链表中的节点](https://github.com/imtsingyun/LeetCode/issues/30)
 - [ ] 🈲 [23. 合并K个升序链表](https://github.com/imtsingyun/LeetCode/issues/29)
 - [ ] 🈚️ [1143. 最长公共子序列](https://github.com/imtsingyun/LeetCode/issues/16)
 - [ ] 🈚️ [1048. 最长字符串链](https://github.com/imtsingyun/LeetCode/issues/15)
@@ -38,10 +37,10 @@
 - [x] 🈯 [141. 环形链表](https://github.com/imtsingyun/LeetCode/issues/37) 2022-11-07
 - [x] 🈯 [83. 删除排序链表中的重复元素](https://github.com/imtsingyun/LeetCode/issues/34) 2022-11-07
 - [x] 🈚️ [61. 旋转链表](https://github.com/imtsingyun/LeetCode/issues/32) 2022-11-07
+- [x] 🈚️ [24. 两两交换链表中的节点](https://github.com/imtsingyun/LeetCode/issues/30) 2022-11-07
 - [x] 🈯 [21. 合并两个有序链表](https://github.com/imtsingyun/LeetCode/issues/28) 2022-11-07
 - [x] 🈚️ [19. 删除链表的倒数第 N 个结点](https://github.com/imtsingyun/LeetCode/issues/27) 2022-11-07
 - [x] 🈯 [206. 反转链表](https://github.com/imtsingyun/LeetCode/issues/26) 2022-11-07
-- [x] 🈯 [剑指 Offer 24. 反转链表](https://github.com/imtsingyun/LeetCode/issues/25) 2022-11-07
 ## 字符串（6）
 - [x] 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
 - [x] 🈯 [面试题 01.09. 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
@@ -83,7 +82,7 @@
 - [ ] 🈚️ [82. 删除排序链表中的重复元素 II](https://github.com/imtsingyun/LeetCode/issues/33) 2022-11-07
 - [x] 🈚️ [61. 旋转链表](https://github.com/imtsingyun/LeetCode/issues/32) 2022-11-07
 - [ ] 🈲 [25. K 个一组翻转链表](https://github.com/imtsingyun/LeetCode/issues/31) 2022-11-07
-- [ ] 🈚️ [24. 两两交换链表中的节点](https://github.com/imtsingyun/LeetCode/issues/30) 2022-11-07
+- [x] 🈚️ [24. 两两交换链表中的节点](https://github.com/imtsingyun/LeetCode/issues/30) 2022-11-07
 - [ ] 🈲 [23. 合并K个升序链表](https://github.com/imtsingyun/LeetCode/issues/29) 2022-11-07
 - [x] 🈯 [21. 合并两个有序链表](https://github.com/imtsingyun/LeetCode/issues/28) 2022-11-07
 - [x] 🈚️ [19. 删除链表的倒数第 N 个结点](https://github.com/imtsingyun/LeetCode/issues/27) 2022-11-07
@@ -188,7 +187,7 @@
 - [ ] 🈚️ [114. 二叉树展开为链表](https://github.com/imtsingyun/LeetCode/issues/35) 2022-11-07
 - [ ] 🈚️ [82. 删除排序链表中的重复元素 II](https://github.com/imtsingyun/LeetCode/issues/33) 2022-11-07
 - [x] 🈚️ [61. 旋转链表](https://github.com/imtsingyun/LeetCode/issues/32) 2022-11-07
-- [ ] 🈚️ [24. 两两交换链表中的节点](https://github.com/imtsingyun/LeetCode/issues/30) 2022-11-07
+- [x] 🈚️ [24. 两两交换链表中的节点](https://github.com/imtsingyun/LeetCode/issues/30) 2022-11-07
 - [x] 🈚️ [19. 删除链表的倒数第 N 个结点](https://github.com/imtsingyun/LeetCode/issues/27) 2022-11-07
 - [x] 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
 - [x] 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
