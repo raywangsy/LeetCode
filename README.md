@@ -68,15 +68,11 @@
 - [x] 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
 - [x] 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
 - [x] 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
-<details><summary>显示更多</summary>
-
 - [x] 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
 - [x] 🈲 [42. 接雨水](https://github.com/imtsingyun/LeetCode/issues/10) 2022-11-03
 - [x] 🈯 [242. 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
 - [x] 🈲 [239. 滑动窗口最大值](https://github.com/imtsingyun/LeetCode/issues/6) 2022-11-03
 - [x] 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
-</details>
-
 ## 链表（20）
 - [x] 🈚️ [86. 分隔链表](https://github.com/imtsingyun/LeetCode/issues/52) 2022-11-07
 - [x] 🈯 [876. 链表的中间结点](https://github.com/imtsingyun/LeetCode/issues/41) 2022-11-07
@@ -93,15 +89,11 @@
 - [ ] 🈚️ [24. 两两交换链表中的节点](https://github.com/imtsingyun/LeetCode/issues/30) 2022-11-07
 - [ ] 🈲 [23. 合并K个升序链表](https://github.com/imtsingyun/LeetCode/issues/29) 2022-11-07
 - [x] 🈯 [21. 合并两个有序链表](https://github.com/imtsingyun/LeetCode/issues/28) 2022-11-07
-<details><summary>显示更多</summary>
-
 - [ ] 🈚️ [19. 删除链表的倒数第 N 个结点](https://github.com/imtsingyun/LeetCode/issues/27) 2022-11-07
 - [x] 🈯 [206. 反转链表](https://github.com/imtsingyun/LeetCode/issues/26) 2022-11-07
 - [x] 🈯 [剑指 Offer 24. 反转链表](https://github.com/imtsingyun/LeetCode/issues/25) 2022-11-07
 - [x] 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
 - [x] 🈯 [203. 移除链表元素](https://github.com/imtsingyun/LeetCode/issues/23) 2022-11-06
-</details>
-
 ## 栈（3）
 - [x] 🈯 [234. 回文链表](https://github.com/imtsingyun/LeetCode/issues/39) 2022-11-07
 - [x] 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
@@ -177,13 +169,9 @@
 - [x] 🈯 [1480. 一维数组的动态和](https://github.com/imtsingyun/LeetCode/issues/22) 2022-11-06
 - [x] 🈯 [977. 有序数组的平方](https://github.com/imtsingyun/LeetCode/issues/21) 2022-11-06
 - [x] 🈯 [面试题 01.09. 字符串轮转](https://github.com/imtsingyun/LeetCode/issues/9) 2022-11-03
-<details><summary>显示更多</summary>
-
 - [x] 🈯 [242. 有效的字母异位词](https://github.com/imtsingyun/LeetCode/issues/8) 2022-11-03
 - [x] 🈯 [572. 另一棵树的子树](https://github.com/imtsingyun/LeetCode/issues/7) 2022-11-03
 - [x] 🈯 [88. 合并两个有序数组](https://github.com/imtsingyun/LeetCode/issues/5) 2022-11-03
-</details>
-
 ## Medium（26）
 - [x] 🈚️ [86. 分隔链表](https://github.com/imtsingyun/LeetCode/issues/52) 2022-11-07
 - [ ] 🈚️ [桶排序](https://github.com/imtsingyun/LeetCode/issues/51) 2022-11-07
@@ -200,13 +188,13 @@
 - [ ] 🈚️ [61. 旋转链表](https://github.com/imtsingyun/LeetCode/issues/32) 2022-11-07
 - [ ] 🈚️ [24. 两两交换链表中的节点](https://github.com/imtsingyun/LeetCode/issues/30) 2022-11-07
 - [ ] 🈚️ [19. 删除链表的倒数第 N 个结点](https://github.com/imtsingyun/LeetCode/issues/27) 2022-11-07
-<details><summary>显示更多</summary>
-
 - [x] 🈚️ [2. 两数相加](https://github.com/imtsingyun/LeetCode/issues/24) 2022-11-07
 - [x] 🈚️ [面试题 16.16. 部分排序](https://github.com/imtsingyun/LeetCode/issues/20) 2022-11-06
 - [x] 🈚️ [75. 颜色分类](https://github.com/imtsingyun/LeetCode/issues/19) 2022-11-06
 - [x] 🈚️ [49. 字母异位词分组](https://github.com/imtsingyun/LeetCode/issues/18) 2022-11-05
 - [ ] 🈚️ [1143. 最长公共子序列](https://github.com/imtsingyun/LeetCode/issues/16) 2022-11-05
+<details><summary>显示更多</summary>
+
 - [ ] 🈚️ [1048. 最长字符串链](https://github.com/imtsingyun/LeetCode/issues/15) 2022-11-05
 - [ ] 🈚️ [5. 最长回文子串](https://github.com/imtsingyun/LeetCode/issues/12) 2022-11-05
 - [x] 🈚️ [739. 每日温度](https://github.com/imtsingyun/LeetCode/issues/11) 2022-11-04
