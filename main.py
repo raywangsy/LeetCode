@@ -7,6 +7,7 @@ from marko.ext.gfm import gfm as marko
 from github import Github
 from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
+from datetime import date
 
 MD_HEAD = """## Leetcode 笔记
 **本项目是基于 [@yihong0618](https://github.com/yihong0618) 的开源项目 [yihong0618/gitblog](https://github.com/yihong0618/gitblog) 创建而成** \n
@@ -215,11 +216,12 @@ def add_md_firends(repo, md, me):
 
 def add_md_recent(repo, md, me, limit=20):
     print("最近更新")
+    today = date.today()
     count = 0
     with open(md, "a+", encoding="utf-8") as md:
         # one the issue that only one issue and delete (pyGitHub raise an exception)
         try:
-            md.write("## 最近更新（20）\n")
+            md.write("## 最近更新（20）：" + today + "\n")
             print(repo.get_issues())
             for issue in repo.get_issues():
                 isTodo = False
