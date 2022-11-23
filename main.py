@@ -9,12 +9,17 @@ from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 from datetime import date
 
+
+today = date.today()
+    
 MD_HEAD = """## Leetcode 笔记
 **本项目是基于 [@yihong0618](https://github.com/yihong0618) 的开源项目 [yihong0618/gitblog](https://github.com/yihong0618/gitblog) 创建而成** \n
 ### 常用解题方法总结：[Summary](https://github.com/imtsingyun/LeetCode/blob/master/SUMMARY.md)\n
 ### Labels [配置文件 labels.yml](https://github.com/imtsingyun/LeetCode/tree/master/.github/config/labels.yml)\n
 🈯️ = Easy · 🈚️ = Medium · 🈲 = Hard
 """
+
+MD_HEAD += today
 
 BACKUP_DIR = "BACKUP"
 ANCHOR_NUMBER = 20
@@ -216,7 +221,6 @@ def add_md_firends(repo, md, me):
 
 def add_md_recent(repo, md, me, limit=20):
     print("最近更新")
-    today = date.today()
     count = 0
     with open(md, "a+", encoding="utf-8") as md:
         # one the issue that only one issue and delete (pyGitHub raise an exception)
