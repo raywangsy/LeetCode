@@ -19,7 +19,7 @@ MD_HEAD = """## Leetcode 笔记
 🈯️ = Easy · 🈚️ = Medium · 🈲 = Hard
 """
 
-MD_HEAD += today
+MD_HEAD += str(today)
 
 BACKUP_DIR = "BACKUP"
 ANCHOR_NUMBER = 20
