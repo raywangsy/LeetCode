@@ -22,7 +22,7 @@
 - [ ] 🈚️ [5. 最长回文子串](https://github.com/imw6u/LeetCode/issues/12)
 - [ ] 🈚️ [322. 零钱兑换](https://github.com/imw6u/LeetCode/issues/1)
 ## 最近更新（20）
-- [x] 🈯 [两个数组的交集](https://github.com/imw6u/LeetCode/issues/57) 2023-04-03
+- [x] 🈯 [349. 两个数组的交集](https://github.com/imw6u/LeetCode/issues/57) 2023-04-03
 - [x] 🈯 [1. 两数之和](https://github.com/imw6u/LeetCode/issues/56) 2023-02-17
 - [x] 🈚️ [剑指 Offer 47. 礼物的最大价值](https://github.com/imw6u/LeetCode/issues/55) 2023-01-02
 - [x] 🈚️ [300. 最长递增子序列](https://github.com/imw6u/LeetCode/issues/54) 2022-11-17
@@ -50,7 +50,7 @@
 - [x] 🈚️ [3. 无重复字符的最长子串 ](https://github.com/imw6u/LeetCode/issues/3) 2022-11-03
 - [x] 🈚️ [151. 反转字符串中的单词](https://github.com/imw6u/LeetCode/issues/2) 2022-11-03
 ## 数组（21）
-- [x] 🈯 [两个数组的交集](https://github.com/imw6u/LeetCode/issues/57) 2023-04-03
+- [x] 🈯 [349. 两个数组的交集](https://github.com/imw6u/LeetCode/issues/57) 2023-04-03
 - [ ] 🈚️ [桶排序](https://github.com/imw6u/LeetCode/issues/51) 2022-11-07
 - [ ] 🈚️ [基数排序](https://github.com/imw6u/LeetCode/issues/50) 2022-11-07
 - [x] 🈚️ [计数排序](https://github.com/imw6u/LeetCode/issues/49) 2022-11-07
@@ -166,7 +166,7 @@
 - [x] 🈲 [42. 接雨水](https://github.com/imw6u/LeetCode/issues/10) 2022-11-03
 - [ ] 🈚️ [322. 零钱兑换](https://github.com/imw6u/LeetCode/issues/1) 2022-01-22
 ## Easy（20）
-- [x] 🈯 [两个数组的交集](https://github.com/imw6u/LeetCode/issues/57) 2023-04-03
+- [x] 🈯 [349. 两个数组的交集](https://github.com/imw6u/LeetCode/issues/57) 2023-04-03
 - [x] 🈯 [1. 两数之和](https://github.com/imw6u/LeetCode/issues/56) 2023-02-17
 - [x] 🈯 [插入排序](https://github.com/imw6u/LeetCode/issues/45) 2022-11-07
 - [x] 🈯 [选择排序](https://github.com/imw6u/LeetCode/issues/43) 2022-11-07
